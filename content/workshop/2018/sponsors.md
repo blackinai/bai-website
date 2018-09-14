@@ -35,7 +35,9 @@ Thanks to our corporate sponsors, the workshop is free to attendees and we are a
 
 {{< figure src="/img/amazon.png" class="img-sponsor-c">}}
 
-<!-- {{< figure src="/img/salesforce.png" class="img-sponsor-c">}} -->
+{{< figure src="/img/salesforce.png" class="img-sponsor-c">}}
+
+{{< figure src="/img/uber.png" class="img-sponsor-c">}} 
 
 <hr>
 
