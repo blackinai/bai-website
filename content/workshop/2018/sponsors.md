@@ -37,7 +37,7 @@ Thanks to our corporate sponsors, the workshop is free to attendees and we are a
 
 {{< figure src="/img/salesforce.png" class="img-sponsor-c">}}
 
-{{< figure src="/img/uber.png" class="img-sponsor-c">}} 
+{{< figure src="/img/uber.png" class="img-sponsor-c">}}
 
 <hr>
 
@@ -59,7 +59,7 @@ Thanks to our corporate sponsors, the workshop is free to attendees and we are a
 
 <hr>
 
-<hr>
+<!--<hr>
 
 <!-- We thank [B4 Capital Group](https://b4capitalgroup.com/) for their support
 <br><br> -->
@@ -68,14 +68,15 @@ Thanks to our corporate sponsors, the workshop is free to attendees and we are a
 
 {{< figure src="/img/kaggle.png" class="img-sponsor-c">}} -->
 
-We thank the following companies for their support.
+We thank the following companies and institutions for their support.
 
- - Airbnb
- - Kaggle
+ - [Airbnb](https://www.airbnb.com/)
+ - [Kaggle](https://www.kaggle.com/)
+ - [MILA](https://mila.quebec/en/)
 
 <hr>
 
-We also thank the following institutions  for sponsoring their students to attend the  workshop
+We also thank the following institutions for sponsoring their students to attend the  workshop
 
  - Cornell University
  - Duke University
