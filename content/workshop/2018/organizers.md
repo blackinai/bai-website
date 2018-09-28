@@ -26,6 +26,10 @@ caption = "Montreal"
 [Devin Guillory](https://www.linkedin.com/in/devin-guillory-78528958/), Etsy  
 [Sanmi Koyejo](http://sanmi.cs.illinois.edu/), University of Illinois, Urbana Champaigns
 
+[Ezinne Nwankwo](https://www.linkedin.com/in/ezinne-nwankwo-119586101/), Harvard University
+
+[Hassan Kane](https://www.linkedin.com/in/mohamed-hassan-kane-4b50328a/), Sela Labs
+
 ## 2018 Program Committee
 
 | Name                       	| Institution / Company                                           	|
