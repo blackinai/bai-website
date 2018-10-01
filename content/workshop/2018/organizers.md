@@ -21,7 +21,7 @@ caption = "Montreal"
 [Esube Bekele](https://esube.github.io), US Naval Research Laboratory  
 [Sarah Brown](http://sarahmbrown.org/), Brown University  
 [Mouhamadou Moustapha Cisse](http://moustaphacisse.com/), Google AI  
-[Timnit Gebru](http://ai.stanford.edu/~tgebru/), Microsoft Research  
+[Timnit Gebru](http://ai.stanford.edu/~tgebru/), Google AI  
 [Judy Wawira Gichoya](http://www.gichoya.me/about/), Oregon Health and Science University  
 [Devin Guillory](https://www.linkedin.com/in/devin-guillory-78528958/), Etsy  
 [Sanmi Koyejo](http://sanmi.cs.illinois.edu/), University of Illinois, Urbana Champaigns
@@ -63,7 +63,7 @@ caption = "Montreal"
 | Ruth Fong                  	| University of Oxford                                            	|
 | Sorelle Friedler           	| Haverford College                                               	|
 | Lanke Frank Fu             	| Ascent Robotics                                                 	|
-| Timnit Gebru               	| Microsoft Research                                              	|
+| Timnit Gebru               	| Google AI                                              	|
 | Judy Wawira Gichoya        	| Oregon Health and Science University                            	|
 | Gebremedhin Fisseha Gidey  	| National Advanced School of Engineering University Of Yaounde I 	|
 | Solomon Gizaw              	| Addis Ababa University                                          	|
