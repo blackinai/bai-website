@@ -78,9 +78,17 @@ We thank the following companies and institutions for their support.
 
 We also thank the following institutions for sponsoring their students to attend the  workshop
 
+ - Berkley University
  - Cornell University
  - Duke University
+ - Georgia Institute of Technology (Georgia Tech)
  - Harvard University
- - Stanford University
+ - Massachusetts Institute of Technology (MIT)
+ - McGill University
+ - Northwestern University
+ - Rutgers University
+ - Stanford University, Computer Science
+ - Stanford University, Stats
  - University of California, Berkeley
  - University of Illinois at Urbana-Champaign
+ - University of Montreal, Montreal Institute for Learning Algorithms (MILA)
