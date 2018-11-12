@@ -7,7 +7,7 @@ linktitle = "Programs"
 
 [menu.workshop]
   parent = "bai2017"
-  weight = 40
+  weight = 50
 +++
 
 ## Schedule 2017
