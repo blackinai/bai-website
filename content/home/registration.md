@@ -9,10 +9,7 @@ subtitle = ""
 weight = 1
 +++
 
-{{% jumbotron %}}
-
 <div style="text-align: center;">
   <a class="btn btn-intro btn-lg" href="https://www.eventbrite.com/e/2nd-black-in-ai-workshop-at-nips2018-tickets-52474799538">Register Now to BAI 2018</a>
 </div>
 
-{{% /jumbotron %}}
