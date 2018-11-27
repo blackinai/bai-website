@@ -24,17 +24,16 @@ linktitle = "Programs 2018"
 | 11:35-11:50     | Oral 4               | Randi Williams        | MIT Media Lab                          |
 | 11:50-12:05     | Oral 5               | Justice Amoh          | Dartmouth College                      |
 | 12:05-12:20     | Oral 6               | Kehinde Owoeye        | University College London              |
-| 12:20-02:00     | Lunch + Poster       |                       |                                        |
-| 02:00-02:15     | Oral 7               | Lucio Dery            | Facebook Inc. / Stanford University    |
-| 02:15-02:50     | Keynote 3            | Karim Beguir          | Instadeep                              |
-| 02:50-03:05     | Oral 8               | Inioluwa Deborah Raji | University of Toronto                  |
-| 03:05-03:20     | Oral 9               | Tewodros Gebreselassie| Addis Ababa University                 |
-| 03:20-03:35     | Oral 10              | Raesetje Sefala       | Wits University                        |
-| 03:35-04:00     | Coffee Break + poster|                       |                                        |
-| 04:00-04:35     | Keynote 4            | Brittny-Jade Saunders | NYC Commission on Human Rights         |
-| 04:35-05:05     | Keynote 5            | Terrence Wilkerson    | Entrepreneur                           |
-| 05:05-05:35     | Panel Discussion on AI Ethics     | Ezinne Nwankwo (moderator), Stephanie Dinkins, Ayanna Howard, Brittny Saunders, and Terrance Wilkerson          |                                        |
-| 05:35-05:45     | Closing Remarks      |                       |                                        |
+| 12:20-02:15     | Lunch + Poster       |                       |                                        |
+| 02:15-02:30     | Oral 7               | Lucio Dery            | Facebook Inc. / Stanford University    |
+| 02:30-02:45     | Oral 8               | Inioluwa Deborah Raji | University of Toronto                  |
+| 02:45-03:00     | Oral 9               | Tewodros Gebreselassie| Addis Ababa University                 |
+| 03:00-03:15     | Oral 10              | Raesetje Sefala       | Wits University                        |
+| 03:15-03:45     | Coffee Break + poster|                       |                                        |
+| 03:45-04:20     | Keynote 4            | Brittny-Jade Saunders | NYC Commission on Human Rights         |
+| 04:20-04:55     | Keynote 5            | Terrence Wilkerson    | Entrepreneur                           |
+| 04:55-05:25     | Panel Discussion on AI Ethics     | Ezinne Nwankwo (moderator), Stephanie Dinkins, Ayanna Howard, Brittny Saunders, and Terrance Wilkerson          |                                        |
+| 05:25-05:30     | Closing Remarks      |                       |                                        |
 |                 |                      |                       |                                        |
 |<td colspan=3> <b> Dinner Schedule </b>
 | 07:00-07:30     | Reception            |                       |                                        |
