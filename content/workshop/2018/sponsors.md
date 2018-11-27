@@ -39,9 +39,13 @@ Thanks to our corporate sponsors, the workshop is free to attendees and we are a
 
 {{< figure src="/img/uber.png" class="img-sponsor-c">}}
 
+{{< figure src="/img/apple.png" class="img-sponsor-c">}}
+
 <hr>
 
 ## <span style="color:Gold"> Gold Sponsors </span>
+
+{{< figure src="/img/nvidia.png" class="img-sponsor-c">}}
 
 {{< figure src="/img/deepmind.png" class="img-sponsor-c">}}
 
@@ -55,7 +59,7 @@ Thanks to our corporate sponsors, the workshop is free to attendees and we are a
 
 {{< figure src="/img/elementai.png" class="img-sponsor-c">}}
 
-{{< figure src="/img/macarthur-foundation.svg" class="img-sponsor-c">}}
+{{< figure src="/img/pinterest.png" class="img-sponsor-c">}}
 
 <hr>
 
