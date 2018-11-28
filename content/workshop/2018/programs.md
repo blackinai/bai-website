@@ -110,7 +110,7 @@ Karim is also the founder of the TensorFlow Tunis Meetup and a Google Developer 
 
 <b>Title</b>:
 
-<b>Bio</b>:
+<b>Bio</b>: His research focuses on understanding and developing deep learning algorithms. These algorithms are already helping make our lives better, but they could also help us understand ourselves. He is interested in creating deep learning algorithms that can learn with little supervision and to understand the principles of learning. He completed his Ph.D. at U. of Montreal with Yoshua Bengio on the subject of scaling deep learning algorithms. His collaborators and him have won two international AI competitions: the Unsupervised Transfer Learning Challenge in 2011, and the EmotiW challenge in 2014.
 
 # Oral Research Presenters
 <hr>
