@@ -60,9 +60,11 @@ linktitle = "Programs 2018"
 
 {{< figure src="/img/brittny.jpg" class="img-sponsor-c">}}
 
-<b>Title</b>:
+<b>Title</b>: "Local Government & the Challenge of Algorithmic Accountability "
 
-<b>Bio</b>:
+<b>Bio</b>: Brittny Saunders is Deputy Commissioner for Strategic Initiatives at the NYC Commission on Human Rights (“Commission”). At the Commission, Brittny manages key inter-agency partnerships and special projects related to data-driven discrimination and racial justice among others. Before joining the Commission, Brittny worked for the Office of the Mayor, most recently as Acting Counsel to the Mayor. Prior to that, as Deputy Counsel, Brittny played a central role in the Office’s broadband equity efforts, working to ensure affordable access to high-speed internet for residents of the five boroughs. Before joining local government, Brittny worked for the Center for Popular Democracy (“CPD”), where she was Supervising Attorney for Immigrant Rights and Racial Justice, and as Senior Advocate at the Center for Social Inclusion (“CSI” now “RaceForward”). Brittny was a 2010 Fellow in Media, Information & Communications Policy with the Rockwood Leadership Institute and a 2018 Wasserstein Fellow at Harvard Law School. She has an A.B. from Harvard College and a J.D. from Harvard Law School.
+
+<b>Abstract</b>: Brittny will provide an overview of the work of the New York City Commission on Rights, the New York City Human Rights Law and the agency's developing work on data-driven discrimination.  In addition, she will speak about her work on other local government efforts at the intersection of human rights and emerging technologies.  
 
 <hr>
 ## [Karim Beguir](https://www.linkedin.com/in/karim-beguir-2350161/)
@@ -87,6 +89,8 @@ Karim is also the founder of the TensorFlow Tunis Meetup and a Google Developer 
 
 <hr>
 ## Terrence Wilkerson
+
+{{< figure src="/img/terrence.jpg" class="img-sponsor-c">}}
 
 <b>Bio</b>: Terrence is a family man and the proud father of four daughters. Born and raised in the Bronx, Terrence first encountered the criminal legal system at a young age. He was twice wrongfully accused of crimes he did not commit: once at 19 and again at 40. He is eager to share lessons from those experiences.
 
