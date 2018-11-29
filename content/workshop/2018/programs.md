@@ -238,4 +238,241 @@ avatar to create the animation.
 
 # Accepted Posters
 <p style="color: black">
-(Accepted posters will be added soon)
+
+| Name of presenter                             | Title of Poster                                                                                                                                        |
+|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Bitseat Tadesse Aragaw                        | Sentence Level Amharic Text Sentiment Analysis Model: A Combined Approach                                                                              |
+| Bitseat Tadesse Aragaw                        | Sentence Level Amharic Text Sentiment Analysis Model: A Combined Approach                                                                              |
+| Wathela Alhassan                              | The FIRST Classifier: compact and extended radio galaxy classification using deep Convolutional Neural Networks                                        |
+| Neema Mduma                                   | Evaluation of Imbalanced Data Techniques for Student Dropout Prediction                                                                                |
+| Neema Mduma                                   | Evaluation of Imbalanced Data Techniques for Student Dropout Prediction                                                                                |
+| Oyebo Abdulhamiid Bankole                     | PLANT LEAVES CLASSIFICATION USING K-NEAREST NEIGHBOUR ALGORITHM                                                                                        |
+| Geletaw Sahle Tegenaw                         | A machine learning approach for identifying proteins involved in conserved parasite- mosquito interactions                                             |
+| Bruno Ssekiwere                               | A Blended Approach of Machine Learning Techniques in Predicting Vegetation Cover                                                                       |
+| Semakula Abdumajidhu                          | Sootymold effect on cassava yields using convolutional neural networks.                                                                                |
+| Semakula Abdumajidhu                          | Sootymold effect on cassava yields using convolutional neural networks                                                                                 |
+| Omotola Dawodu                                | Application of Machine Learning to Classification of Diabetes Mellitus                                                                                 |
+| Mulubrhan Hailegebreal                        | A Bidirectional Tigrigna – English Statistical Machine Translation                                                                                     |
+| BABALOLA Moyin Florence                       | Condition-Based Knowledge Representational Structure for Identifying Norms Violation In Logic-Based Normative Systems                                  |
+| Abiodun Modupe                                | Deep Learning for Authorship Attribution of Social Media Forensics                                                                                     |
+| Zelalem Fantahun Abate                        | Unsupervised Part-of-Speech Tagger for Amharic using K-means clustering                                                                                |
+| Abel Kahsay                                   | Deep learning Based Gastrointestinal Disease Recognition for Endoscopic Images                                                                         |
+| Hafte Abera                                   | Design of Tigrinya Language Speech Corpus for Speech Recognition                                                                                       |
+| Emeka Ogbuju                                  | Development of a Deep Sentiment Recommender for E-commerce                                                                                             |
+| Hicham Hammouchi                              | Visual Speech Recognition using Hahn Convolutional Neural Networks                                                                                     |
+| Hicham Hammouchi                              | Visual Speech Recognition using Hahn Convolutional Neural Networks                                                                                     |
+| Michael Melese Woldeyohannis                  | English-Ethiopian Languages SMT                                                                                                                        |
+| Alemayehu Solomon Admasu                      | Deep Haar scattering networks in pattern recognition: a promising approach                                                                             |
+| Kehinde Aruleba                               | Automatic Recognition of Hand-drawn Finite Automata Images                                                                                             |
+| Kehinde Aruleba                               | Recognition of hand-drawn finite automata images                                                                                                       |
+| Blessing Ogbuokiri                            | Examining Social Media Impact on the Politics of Nigeria Using Social Network Analytics                                                                |
+| Blessing Ogbuokiri                            | Examining Social Media Impact on the Politics of Nigeria using Social Network Analytics                                                                |
+| Gereziher Weldegebriel Adhane                 | Multiple face detection and tracking in a real-time video sequences using centroid tracking and deep learning techniques                               |
+| Abraham Enyo-one Musa                         | EXPERT SYSTEM FOR EYE DISEASE DIAGNOSIS                                                                                                                |
+| MUSA, Abraham Enyo-one                        | EXPERT SYSTEM FOR EYE DISEASE DIAGNOSIS                                                                                                                |
+| selam waktola                                 | Automatic stagnant zone segmentation using CNN and x-ray tomography of silo discharging process                                                        |
+| selam waktola                                 | Automatic stagnant zone segmentation using CNN and x-ray tomography of silo discharging process                                                        |
+| Jeraldy Deus                                  | TRANSFER LEARNING APPLIED TO BANKNOTE RECOGNITION FOR VISUALLY IMPAIRED PEOPLE.                                                                        |
+| George Rabeshi Obaido                         | Automatic Plagiarism Detection in Student Programs using PlaGraph                                                                                      |
+| George Rabeshi Obaido                         | Automatic Plagiarism Detection in Student Programs using PlaGraph                                                                                      |
+| Sakinat Folorunso                             | EMPIRICAL COMPARISON OF TIME SERIES DATA MINING ALGORITHMS                                                                                             |
+| Lindelweyizizwe Manqele                       | Smarter decision-making using Internet of Things enabled sensor data                                                                                   |
+| PRINCE MAKAWA ABUDU                           | Communicating Recurrent Neural Networks for Resource Constrained Systems                                                                               |
+| Prince M Abudu                                | Communicating Recurrent Neural Networks for Resource Constrained Systems                                                                               |
+| Chidubem G Arachie                            | Adversarial Learning for Weak Supervision                                                                                                              |
+| Abdullah Khadijha-Kuburat Adebisi             | A PREDICTIVE MODEL FOR TWEET SENTIMENT ANALYSIS AND CLASSIFICATION                                                                                     |
+| Babirye Claire                                | Mining for Votes: Inferring Voting Trends from Twitter Data                                                                                            |
+| George Musumba                                | Towards an IT-Mediated Food Insecurity Solution for Developing Nations                                                                                 |
+| George Musumba                                | Towards an IT-Mediated Food Insecurity Solution for Developing Nations                                                                                 |
+| Natasha Williams                              | Medical Artificial Intelligence: The Inclusion of Racial and Ethnic Minorities in Clinical Trials Will Improve Data Diversity                          |
+| Natasha H. Williams, PhD, JD, LLM, MPH        | Medical Artificial Intelligence: The Inclusion of Racial and Ethnic Minorities in Clinical Trials Will Improve Data Diversity                          |
+| Zimele Gwebu                                  | Portable Pedestrians and Animals Detection Device for Vehicles using Transfer Learning                                                                 |
+| Omara Patrick                                 | MULTI-RISK ANALYSIS OF PROSTATAE CANCER SURVIVAL                                                                                                       |
+| Omara Patrick                                 | MULTI_RISK ANALYSIS OF PROSTATE CANCER SURVIVAL                                                                                                        |
+| Omara Patrick                                 | Multi-Risk Analysis of Prostate Cancer Survival                                                                                                        |
+| Tameru Hailesilassie                          | Rule Extraction Algorithm for Deep Neural Networks: A Tool Towards Explainable AI                                                                      |
+| Tameru Hailesilassie                          | Rule Extraction Algorithm for Deep Neural Networks: A Tool Towards Explainable AI                                                                      |
+| Solomon Nsumba                                | Automated image-based diagnosis of cowpea diseases                                                                                                     |
+| Melles, Abey Desta                            | Unsupervised Similarity Based Topic Segmentation System for Amharic                                                                                    |
+| Israel Goytom                                 | A Machine learning approach to detect and classify 3D two-photon polymerization microstructures using optical microscopy images                        |
+| Israel Goytom                                 | A Machine learning approach to detect and classify 3D two-photon polymerization microstructures using optical microscopy images                        |
+| Idowu T. Aruleba                              | Hypertension Prediction System Using Naive Bayes Classifier                                                                                            |
+| Omar                                          | Transfer Reinforcement Learning Through Demonstration                                                                                                  |
+| Adesina adetola                               | PREDICTING RATE OF ACCEPTANCE AND USE OF WEB PORTAL SERVICE (UNIVERSITY ENVRIONMENT) USING MULTILAYER PERCEPTRON FEEDFORWARD ARTIFICIAL NEURAL NETWORK |
+| Adesina Adetola Sunday                        | Predicting rate of acceptance of web services (university environment) using multilayer perceptron feedforward artificial neural network               |
+| Adesina Adetola Sunday                        | Predicting rate of acceptance and use of web portal service (university environment) using multilayer perceptron feedforward artificial neural network |
+| kiante brantley                               | Learning to Teach: Learning Good Teaching Policies with Reinforcement Learning                                                                         |
+| Kiante Brantley                               | Learning to Teach                                                                                                                                      |
+| Femi Alayesanmi Samson                        | MACHINE LEARNING IN FORENSICS: DEVELOPING AN OBJECT DETECTION MODEL FOR CRIME EVIDENCE ANALYSIS USING YOLO                                             |
+| Alayesanmi Femi Samson                        | Object Detection Model for Crime Evidence Analysis Using Yolo                                                                                          |
+| Irene Nandutu                                 | Building a Neural Machine Translation with Attention for Low Resource Language – Luganda                                                               |
+| Kyamanywa Kenneth                             | Dynamic Route Optimization for Public Trasportation Using Crowd Sourced User Feed                                                                      |
+| Kenneth Kyamanywa                             | Dynamic Route Optimisastion                                                                                                                            |
+| Simphiwe Zitha                                | Classifying Radio Galaxies using Model-Agnostic Meta-Learning                                                                                          |
+| Simphiwe Zitha                                | Classifying Radio Galaxies using Model-Agnostic Meta-Learning                                                                                          |
+| Mutembesa Daniel                              | Crowdsourcing real-time disease and pest information. A case of nation-wide cassava disease surveillance in a developing country.                      |
+| Bereket Abera YILMA                           | Constructive Social Choice with Setwise Max-margin                                                                                                     |
+| Melese Mihret Wondim                          | Sentiment Analysis model for opinionated Awngi text: case of Music reviews                                                                             |
+| Melese Mihret Wondim                          | Sentiment Analysis model for opinionated Awngi text: Case of Music reviews                                                                             |
+| Odu Nkiruka Bridget                           | A Fuzzy-based Approach for Modelling Preferences of Users in Multi-criteria Recommender Systems                                                        |
+| VICTOR C DIBIA                                | COCO-Africa: A Curation Tool and Dataset of Common Objects in the Context of Africa                                                                    |
+| Robert Nsinga                                 | Predictive Analysis of Cohesiveness in Multivariate Sequences Using LSTM Recurrent Neural Networks                                                     |
+| Elhadji Amadou Oury DIALLO                    | Learning Group Formation for Coordinated Behavior in Adversarial Multi-Agent with Double DQN                                                           |
+| Kibrewossen Yitbarek Mekasha                  | AMHARIC SENTENCE GENERATION FROM INTERLINGUA REPRESENTATION                                                                                            |
+| Kibrewossen Yitbarek Mekasha                  | Amharic sentence generation from Interlingua representation                                                                                            |
+| Devotha Nyambo                                | Modeling of Annual Milk Yield of Dairy Cows: Impact of Exclusive Grazing and Infectious Disease to Individual Cows                                     |
+| Muthoni Wanyoike                              | Promoting diversity and inclusion in the field of Artificial Intelligence in Kenya                                                                     |
+| Isaac Mukonyezi                               | Prediction of Spectrum Holes in Cognitive Radio Ad-Hoc Networks                                                                                        |
+| Taiwo Abass Ishola                            | Modelling and Forecast Evaluation Performance with Extended Neural Network using Climatic Time Series Data                                             |
+| Thon Kuir Biar Ayual                          | AGRICULTURAL ADVISORY ON SEASONAL VARIATION IN SOUTH SUDAN                                                                                             |
+| Thon Kuir Biar Ayual                          | Computational Weather prediction in South Sudan                                                                                                        |
+| Randi Williams                                | PopBots: Leveraging Social Robots to Aid Early Childhood Artificial Intelligence Education                                                             |
+| Thon Kuir Biar Ayual                          | Computational weather prediction in South Sudan                                                                                                        |
+| Masresha Beniam                               | A Classical Method for Detecting Overlapping Faces in Images                                                                                           |
+| Hafte Abera                                   | Speech Recognition for Tigrinya language Using Deep Neural Network Approach                                                                            |
+| Odu Nkiruka                                   | fuzzy-based approach in modeling preferences of users in multi-criteria recommender system                                                             |
+| Odu Nkiruka Bridget                           | A Fuzzy-based Approach for Modelling Preferences of Users in Multi-criteria Recommender Systems                                                        |
+| Bayeleygne Meseret Dastaw                     | Speculative Scientific Inference via Synergetic Combination of Probabilistic Logic and Evolutionary Pattern Recognition                                |
+| Ahmed Mohammed                                | Y-NET: A DEEP CONVOLUTIONAL NEURAL NETWORK TO POLYP DETECTION                                                                                          |
+| Zekarias Tilahun Kefato                       | Network-Agnostic Cascade Prediction in Online Social Networks                                                                                          |
+| Darlington Ahiale Akogo                       | CellLineNet: End-to-End Learning and Transfer Learning For Multiclass Epithelial Breast Cell Line Classification Via A Convolutional Neural Network    |
+| Abdullah Mohamed, Abubakr Hassan              | Implementation of A Neural Natural Language Understanding Component for Arabic Dialogue Systems                                                        |
+| Abdallah Mohammed/ Abubakr Hassan             | Implementation of a neural natural language understanding for Arabic dialogue system                                                                   |
+| juvenalis musungu                             | Optimizing Agricultural Yields using AI for weed control                                                                                               |
+| Irené Tematelewo                              | Blood Glucose-Insulin Metabolism Modeling in Type 1 Diabetics using System Identification                                                              |
+| Mohammed Khalil                               | Speaker identification for aeronautical communications systems based on SMFCC and i-vector                                                             |
+| Alvin Grissom II                              | Pathologies of Neural Models Make Interpretations Difficult                                                                                            |
+| Basiliyos BETRU                               | Embedding user geo-spatial preference for personalized business opportunity recommendation.                                                            |
+| Basiliyos BETRU                               | Embedding Geo-spatial preference for optimal recommendation                                                                                            |
+| Simon Mekit                                   | GHOST -  A Dialogue and Behavior Scripting framework for Robots and other Intelligent Agents                                                           |
+| Simon Mekit                                   | A ChatBot Framework for Robots and other Intelligent Agents                                                                                            |
+| Yemisrach G Nigatie                           | Investigating Unsupervised Approach for Amharic Part of Speech Tagging                                                                                 |
+| Randi Williams                                | PopBots: Leveraging Social Robots to Aid Preschool Children’s Artificial Intelligence Education                                                        |
+| Felipe Paula                                  | Detecting neuropsychiatric conditions with semantic verbal fluency                                                                                     |
+| Felipe Paula                                  | Detecting neuropsychiatric conditions with semantic verbal fluency                                                                                     |
+| Olaniyan Oluwasegun Emmanuel                  | DEVELOPMENT OF MULTI-TARGET REGRESSION MODELS TO PREDICT THE PHYSICAL AND CHEMICAL PROPERTIES OF SOIL                                                  |
+| Tejumade Afonja                               | CHOWNET: An Image Local Food Dataset                                                                                                                   |
+| Tejumade Afonja                               | CHOWNET: An Image Dataset For Local Food                                                                                                               |
+| Daniel Melesse                                | A Data-Driven Approach to Automatic Gaze Tracking                                                                                                      |
+| Francisca Oladipo                             | The Machine Learning of Women: Dataset and Initial Results                                                                                             |
+| Mellitus Okwudili Ezeme                       | Hierarchical Attention-Based Anomaly Detection Model for Embedded Operating Systems                                                                    |
+| Martha Yifiru Tachbelie                       | Development of Pronunciation Lexicons for Amharic Automatic Speech Recognition (ASR)                                                                   |
+| Solomon Teferra Abate                         | Development of Pronunciation Lexicons for Amharic Automatic Speech Recognition (ASR)                                                                   |
+| Martha Yifiru Tachbelie                       | Development of Pronunciation Lexicons for Amharic Automatic Speech Recognition (ASR)                                                                   |
+| Marcellin Atemkeng                            | Dimensional Reduction Techniques for Radio Interferometric Big Data Compression                                                                        |
+| ONALETHATA INNOCENT MASWABI                   | Real Time PID Feedback Control Online Tuning Algorithm                                                                                                 |
+| Onalethata Innocent Maswabi                   | Real time PID feedback Control Online Tuning Algorithm                                                                                                 |
+| Meareg Hailemariam                            | Real-time Mirroring: Human Facial Expressions to a 3D Avatar                                                                                           |
+| Mohammed Khalil                               | Impact of digital watermarking on MR-Brain pathological detection system                                                                               |
+| Joel Eyamu                                    | Predicting Multi-drug resistant tuberculosis using machine learning                                                                                    |
+| Ahmed Elsiddieg Abdulaziz Abdalla             | A comparative review of incremental learning of sensorimotor models for developmental robots                                                           |
+| Obioma Pelka                                  | Radiology Objects in COntext (ROCO): A Multimodal Medical Image Dataset                                                                                |
+| Frederick Apina                               | Leveraging Machine Intelligence for Diagnosing UTI                                                                                                     |
+| Bizuayehu                                     | Improving SMT Perfomance by Extracting Parallel Sentences from Comparable Corpora for low resourced languages                                          |
+| Yosi Shibberu                                 | AI for Africa: Opportunities and Challenges                                                                                                            |
+| Yosi Shibberu                                 | AI for Africa: Opportunities and Challenges                                                                                                            |
+| Habiba Sultan Rega                            | DESIGN AND IMPLEMENTATION OF AN INTEGRATED REAL-TIME BUS AND TRAIN TRACKING FRAMEWORK                                                                  |
+| Habiba Sultan Rega and Obsa Taera Deressa     | DESIGN AND IMPLEMENTATION OF AN INTEGRATED REAL-TIME BUS AND TRAIN TRACKING FRAMEWORK                                                                  |
+| Tlamelo Makati                                | A New Metric for Scoring Video Action Segmentation Methods in a Supervised Setting                                                                     |
+| Emmanuel Masabo                               | A Self Adaptive Model for Detecting Polymorphic Malware                                                                                                |
+| Mpho Mokoatle                                 | Collision Course: Challenges with Road Traffic Accident Data in South Africa                                                                           |
+| owoeye kehinde                                | Identifying sheep with abnormal movement trajectory in a flock                                                                                         |
+| Kehinde Owoeye                                | Identifying sheep with abnormal movement trajectory in a  flock                                                                                        |
+| Vongani Maluleke                              | Aerial Image Poverty Estimation                                                                                                                        |
+| Vongani Maluleke                              | Aerial Image Poverty Estimation                                                                                                                        |
+| Bayanda Chakuma                               | Visualizing the Optimization process for Multi-Objective Optimization Problems                                                                         |
+| Bayanda Chakuma                               | VISUALIZING THE SEARCH PROCESS FOR MULTI-OBJECTIVE OPTIMIZATION PROBLEMS                                                                               |
+| Bayanda Chakuma                               | Visualizing the Search Process for Multi objective Optimization Problems                                                                               |
+| Adam Kyomuhendo                               | LEGALITY AND THE ETHICS OF USE OF UNMANNED COMBAT AERIAL VEHICLES (UCAVs) IN THE CONTEXT OF INTERNATIONAL HUMANITARIAN LAW                             |
+| Kassahun Tamir                                | Handwritten Amharic Characters Recognition Using CNN                                                                                                   |
+| Daniel Nkemelu                                | Deep Convolutional Neural Network for Plant Seedlings Classification                                                                                   |
+| Nofundiso                                     | Path planning on a constrained manifold                                                                                                                |
+| El Mehdi El Allaoui                           | Empirical Evaluation of Word Representations on  Arabic Sentiment Analysis                                                                             |
+| El Allaoui El Mehdi                           | Empirical Evaluation of Word Representations on Arabic Sentiment Analysis                                                                              |
+| George Boateng                                | Multimodal Affect Detection among Couples for Diabetes Management                                                                                      |
+| Roy Henha Eyono                               | Learning To Backpropagate                                                                                                                              |
+| Ermias Abebe Tegegn                           | Machine learning Model for Predicting the Status of HIV Patients during Drug Regimen Change                                                            |
+| Ermias Abebe Tegegn                           | Machine learning Model for Predicting the Status of HIV Patients during Drug Regimen Change                                                            |
+| Raesetje Sefala                               | Using satellite images and computer vision to study the evolution and effects of spatial apartheid in South Africa                                     |
+| Raesetje Sefala                               | Using satellite images and computer vision to study the evolution and effects of spatial apartheid in South Africa                                     |
+| Mamuku Mokuwe                                 | Saliency Overlay Generation Using Bayesian Optimisation                                                                                                |
+| Mamuku Windy Mokuwe                           | Saliency overlay generation using Bayesian optimisation                                                                                                |
+| Andrew Zaldivar                               | Model Cards for Model Reporting                                                                                                                        |
+| Ahmed Babajide Olanrewaju                     | Analysis of the Adoption of Social Media Tools by Government Agencies in Nigeria using Machine Learning Approach                                       |
+| Lucio Dery                                    | Audio To Body Dynamics                                                                                                                                 |
+| Terrell Nowlin                                | Predicting Prostate Cancer Reucurrence Using Computer Vision                                                                                           |
+| Melissa Woghiren                              | Revisiting the Prediction of cis-Regulatory Genomic Elements Using Machine Learning Tools                                                              |
+| Dr. Modinah A. O. Abdul Raheem                | Augmented Reality as a Classroom Engagement Tool in Repositioning Geography Learning in Osun State Nigeria                                             |
+| Ajani, Adedeji Hammed                         | Augmented Reality ad a Classroom Engagement Tool in Repositioning Geography Learning in Osun State Nigeria                                             |
+| Jahkel Robin                                  | Neural Sentence Reordering for Simultaneous Machine Translation                                                                                        |
+| Ezinne Nwankwo                                | Perspectives on the Use of Algorithms in the Public Sector                                                                                             |
+| yenatfanta shifferaw bayleyegn                | Early detection of kidney abnormality using neural network                                                                                             |
+| Taha Merghani                                 | Application of The Hilbert-Schmidt Independence Criterion to Lexical Geographical Variation in Lyon, France                                            |
+| Thembani Phaweni                              | Extracting structured information from organisational diagrams                                                                                         |
+| Thembani Phaweni                              | Extracting structured information from organograms and network diagrams                                                                                |
+| Charles C Onu                                 | Undersampling and Bagging of Decision Trees in Analysis of Cardiorespiratory Variability for Extubation Readiness in Extremely Preterm Infants         |
+| Wondimagegnhue Tsegaye Tufa                   | Morphological Segmentation Using Encoder-Decoder for Morphologically Rich Languages (MRL)                                                              |
+| Daniel Ajisafe                                | Early retinal tissue damage detection using Machine Learning                                                                                           |
+| Seifedin Shifaw                               | Amharic Text Normalization for Higher Level NLP Applications Using Machine Learning Approach                                                           |
+| Solomon Teferra Abate                         | Amharic Text Normalization for Higher Level NLP Applications Using Machine Learning Approach                                                           |
+| Seifedin Shifaw Mohamed                       | Amharic Text Normalization for Higher Level NLP Applications Using Machine Learning Approach                                                           |
+| Tlou Boloka                                   | Towards knowledge Tranfer for Model-Based Deep Reinforcement Learning                                                                                  |
+| Shelby Heinecke                               | Crowdsourced PAC Learning under Classification Noise                                                                                                   |
+| Fisseha Gidey GEBREMEDHIN                     | Data Visualization for Exploring Comparative Advantages in Multidimensional Economic Data                                                              |
+| Ismaël Koné                                   | Mondrian Forests with Label Guided Splits                                                                                                              |
+| Joshua Patterson                              | RAPIDS: GPU Accelerated Data Science                                                                                                                   |
+| Reem Elmahdi                                  | Analysis, Prediction and Comparison Algorithms For Water Quality Variables                                                                             |
+| Reem Elmahdi                                  | Transfer Learning in Water Quality Variable’s Prediction                                                                                               |
+| Latoya Peterson                               | AI in the Trap                                                                                                                                         |
+| Olasunkanmi, Roseline Olawumi                 | Deep Neural Network Based Approach to Skin Cancer Classification                                                                                       |
+| Olawumi Roseline Olasunkanmi                  | Deep Learning Based Approach to Skin Cancer Detection                                                                                                  |
+| Henry Burton                                  | Machine-learning (ML) based earthquake damage detection of residential buildings                                                                       |
+| meryem hagui, ABDELATI EL ASRI                | Convolutional Neural Networks for Breast Cancer through Invasive Ductal Carcinoma                                                                      |
+| Taiwo Kolajo                                  | Capturing Rich Semantics Implicit in Social Media Streams for Improved Analytics Result                                                                |
+| Nalwooga Samiiha                              | Machine Learning Approach for Monitoring of Viral Cassava Disease                                                                                      |
+| Eric Corbett                                  | Interactive Machine Learning Heuristics                                                                                                                |
+| Ndivhuwo Makondo                              | Towards improving sensorimotor model learning for developmental robots with multi-robot knowledge transfer                                             |
+| Tshepiso Mokoena, Koena Monyai                | Explaining anomalies via Sequential Feature Explanations and Visualisations                                                                            |
+| Claudia V. Roberts                            | Quantifying the Extent to Which Popular Pre-trained Convolutional Neural Networks Implicitly Learn High-Level Protected Attributes                     |
+| Cody Coleman                                  | Computationally efficient subset selection for deep learning training                                                                                  |
+| Cody Coleman                                  | Efficient Data Selection For Training Deep Networks                                                                                                    |
+| Mohamed Hassan Kane                           | Learning to learn how to learn                                                                                                                         |
+| Salahadin Seid Musa                           | Towards Real-time Multimodal Emotion Recognition for Tele-health using IoT                                                                             |
+| Girmaw Abebe Tadesse                          | Cross-domain knowledge transfer for wearable sensors                                                                                                   |
+| Ally Salim Jr                                 | Synthetic Patient Generation: Deep Learning to Generate New Patient Records                                                                            |
+| Omolayo Olasehinde                            | Stock Price Prediction System using Long Short-Term Memory                                                                                             |
+| Sicelukwanda Zwane                            | Safe Exploration in Deep Reinforcement Learning with Action Priors                                                                                     |
+| Samee Ibraheem                                | Speech Recognition Diversity in Clinical Settings                                                                                                      |
+| Linda Khumalo                                 | Modelling long-range contextual information in a Recurrent Neural Network Language Model                                                               |
+| Abstractive text summarization with attention | Abstractive text summarization with attention                                                                                                          |
+| Ditebogo Masha                                | Proprioceptive Terrain Classification for Tracked Mobile Robots using SVM                                                                              |
+| Waleed Khamies & Montaser Mohammedalamen      | Transfer Learning For Prosthetics Using Imitation Learning                                                                                             |
+| Thabo Malete                                  | EEG-based Control of a 3D Game Using a 14-channel BCI                                                                                                  |
+| Justice Amoh                                  | e-GRU: An Optimized Recurrent Unit for Ultra Low Power Acoustic Event Detection                                                                        |
+| Justice Amoh                                  | An Optimized Recurrent Unit for Ultra-Low-Power Acoustic Event Detection                                                                               |
+| Inioluwa Deborah Raji                         | In the Shadow of Gender Shades: Case-based Exploration of Corporate Reactions to a Third-Party Black Box Algorithmic Audit                             |
+| Victoria Okuneye                              | Classification of Psychosis Diagnoses using Resting State Functional Connectivity from Multi-Site Bipolar-Schizophrenia Intermediate Phenotype Study   |
+| Christine Allen-Blanchette                    | Design and Use of Equivariant Filters in CNNs                                                                                                          |
+| Zimkhitha Sijovu                              | Probabilistic state estimation and calibration for a robot manipulator end-effector.                                                                   |
+| Amr Khalifa & Eltayeb Ahmed                   | Generating Optimized Traffic Light Controllers using Reinforcement Learning                                                                            |
+| AnnMargaret Tutu                              | DeepBlock: a decentralized approach to hardware acceleration for deep learning.                                                                        |
+| Tesfamariam M Abuhay                          | Data-Driven Simulation of Patient Flow through Multiple Departments to Estimate Load of Departments                                                    |
+| Hiba Chougad                                  | Multi-label Transfer Learning for the Early Diagnosis of Breast Cancer                                                                                 |
+| Ms Martha Shaka                               | IMPROVING PROPERTY TAX COMPLIANCE: MACHINE LEARNING APPROACH                                                                                           |
+| FREDRICK MANANG                               | IMPROVING PROPERTY TAX COMPLIANCE: A MACHINE LEARNING APPROACH                                                                                         |
+| Tuga Abdelkarim Ahmed                         | Detecting Depression and Suicidal Thoughts on Social Media                                                                                             |
+| Flora Tasse                                   | 3D Scene Estimation From Images                                                                                                                        |
+| Flora Ponjou Tasse                            | 3D Scene Estimation From Images                                                                                                                        |
+| Onyeka Emebo                                  | A Conceptual Framework for Team Selection using Semantic Case-based Reasoning                                                                          |
+| Hope Mogale                                   | Training and Optimizing Music Recommendation Algorithms Using Self-Similarity Matrices                                                                 |
+| Oyebo Abdulhamiid Bankole                     | Plant leaves Classification Using K- Nearest Neighbour                                                                                                 |
+| Eric Mibuari                                  | Subset Scanning for Anomaly Detection on Customs Data                                                                                                  |
+| Babalola Moyin Florence                       | Condition-Based Knowledge Representational Structure for Identifying Norms Violation In Logic-Based Normative Systems                                  |
+| Milen Girma Kebede                            | Regulatory Compliance in Healthcare: Managing Consent                                                                                                  |
+| Surafel Melaku Lakew                          | Improving Extremely Low-Resource and Zero-Shot Neural Machine Translation                                                                              |
+| Koena Monyai                                  | Explaining anomalies via Sequential Feature Explanations and Visualisations                                                                            |
+| Abiodun Modupe                                | Deep Learning framework for Authorship Attribution of Social Media Texts                                                                               |
+| Michael Melese Woldeyohannis                  | English-Ethiopian Languages Statistical Machine Translation                                                                                            |
+| Victor Dibia                                  | COCO-Africa: A Curation Tool and Dataset of Common Objects in the Context of Africa                                                                    |
+| Sarah Brown                                   | Critical Data Exploration by Detecting Simpson's Paradox                                                                                               |
+| Matthew Tesfaldet                             | Convolutional Photomosaic Generation via Multi-Scale Perceptual Losses                                                                                 |
