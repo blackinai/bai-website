@@ -12,6 +12,8 @@ linktitle = "Programs 2018"
 
 # Schedule 2018
 
+<b>Workshop is at the convention Center Room 520</b>
+
 | Time            | Event                | Speaker               | Institution                            |
 |-----------------|----------------------|-----------------------|----------------------------------------|
 | 09:00-09:10     | Opening Remarks      |                       | BAI                                    |
@@ -35,7 +37,7 @@ linktitle = "Programs 2018"
 | 04:55-05:25     | Panel Discussion on AI Ethics     | Ezinne Nwankwo (moderator), Stephanie Dinkins, Ayanna Howard, Brittny Saunders, and Terrance Wilkerson          |                                        |
 | 05:25-05:30     | Closing Remarks      |                       |                                        |
 |                 |                      |                       |                                        |
-|<td colspan=3> <b> Dinner Schedule </b>
+|<td colspan=3> <b> Dinner Schedule (HYATT REGENCY MONTRÉAL) </b>
 | 07:00-07:30     | Reception            |                       |                                        |
 | 07:30-08:00     | Welcome to Dinner    |                       |                                        |
 | 08:00-10:00     | Dinner               |                       |                                        |
