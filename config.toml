@@ -296,11 +296,11 @@ enableGitInfo = true
     weight = 3
     url = "/workshop/"
 	
-  [[menu.main]]
-    name = "BAI 2019"
-    weight = 4
-    #parent = "ws"
-    url = "/workshop/2019/cfp"
+  #[[menu.main]]
+  #  name = "BAI 2019"
+  #  weight = 4
+  #  #parent = "ws"
+  #  url = "/workshop/2019/cfp"
 
   [[menu.main]]
     name = "BAI 2018"
