@@ -1,11 +1,12 @@
 +++
-title = "Workshop 2018"
+title = "Workshop 2019"
 
-math = false
+math = true
+
 highlight = false
 
 # Optional featured image (relative to `static/img` folder).
 [header]
-image = "convention.jpg"
-caption = "Palais des Congrès de Montréal (Montreal Convention Centre)"
+image = "vancouver_convention_centre.png"
+caption = "Vancouver Convention Center, Vancouver CANADA"
 +++

@@ -282,42 +282,34 @@ enableGitInfo = true
     url = "#about"
     weight = 1
 
-
-
-  #[[menu.main]]
-  #  name = "BAI Workshops"
-  #  url = "workshop/"
-  #  identifier="ws"
-  #  weight = 2
-
-  [[menu.main]]
-    name = "About BAI Workshops"
-    #parent = "ws"
-    weight = 3
-    url = "/workshop/"
+ [[menu.main]]
+   name = "About BAI Workshops"
+   #parent = "ws"
+   weight = 2
+   url = "/workshop/"
 	
-  #[[menu.main]]
-  #  name = "BAI 2019"
-  #  weight = 4
-  #  #parent = "ws"
-  #  url = "/workshop/2019/cfp"
+  [[menu.main]]
+    name = "BAI 2019"
+    weight = 3
+    #parent = "ws"
+    url = "/workshop/2019/cfp"
 
   [[menu.main]]
     name = "BAI 2018"
-    weight = 5
+    weight = 4
     #parent = "ws"
     url = "/workshop/2018/cfp"
 
   [[menu.main]]
     name = "BAI 2017"
-    weight = 6
+    weight = 5
     #parent = "ws"
     url = "/workshop/2017/cfp"
 
   [[menu.main]]
     name = "Contact"
     url = "#contact"
-    weight = 8
+    weight = 6
 
   #  [[menu.main]]
   #    identifier = "2018ws"
@@ -420,13 +412,18 @@ enableGitInfo = true
   url = "/workshop/"
 
 [[menu.workshop]]
-  name = "BAI 2018"
+  name = "BAI 2019"
   weight = 10
+  identifier = "bai2019"
+  
+[[menu.workshop]]
+  name = "BAI 2018"
+  weight = 20
   identifier = "bai2018"
 
 [[menu.workshop]]
   name = "BAI 2017"
-  weight = 20
+  weight = 30
   identifier = "bai2017"
 
 # Search.
