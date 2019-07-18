@@ -1,5 +1,5 @@
 ﻿+++
-title = "CFP 2019"
+#title = "CFP 2019"
 linktitle = "CFP 2019"
 draft = false
 
@@ -9,7 +9,7 @@ draft = false
 
 # Optional featured image (relative to `static/img` folder).
 [header]
-image = "vancouver_convention_centre.png"
+image = "vancouver_convention_centre.jpeg"
 caption = "Vancouver Convention Center, Vancouver CANADA "
 +++
 

@@ -12,7 +12,7 @@ math = true
 
 # Optional featured image (relative to `static/img` folder).
 [header]
-image = "vancouver_conv_center_2.jpg"
+image = "vancouver_travels.jpg"
 caption = "Vancouver"
 +++
 

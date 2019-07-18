@@ -282,11 +282,11 @@ enableGitInfo = true
     url = "#about"
     weight = 1
 
- [[menu.main]]
-   name = "About BAI Workshops"
-   #parent = "ws"
-   weight = 2
-   url = "/workshop/"
+# [[menu.main]]
+#   name = "About BAI Workshops"
+#   #parent = "ws"
+#   weight = 2
+#   url = "/workshop/"
 	
   [[menu.main]]
     name = "BAI 2019"
@@ -406,10 +406,10 @@ enableGitInfo = true
 
 # Workshops sub-menu.
 
-[[menu.workshop]]
-  name = "About BAI Workshops"
-  weight = 5
-  url = "/workshop/"
+#[[menu.workshop]]
+#  name = "About BAI Workshops"
+#  weight = 5
+#  url = "/workshop/"
 
 [[menu.workshop]]
   name = "BAI 2019"

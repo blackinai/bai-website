@@ -15,7 +15,7 @@ aliases = ["post/submissions/"]
 
 # Optional featured image (relative to `static/img` folder).
 [header]
-image = "vancouver.jpg"
+image = "vancouver-convention-centre-green-roof.jpg"
 caption = "Vancouver"
 +++
 
