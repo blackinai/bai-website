@@ -34,41 +34,22 @@ Work may be previously published, completed, or ongoing. The workshop will not p
 The workshop will feature invited talks from prominent researchers and practitioners, oral presentations, and a poster session. There will also be socials to facilitate networking, discussion of different career opportunities in AI, and sharing of ideas to increase participation of Black researchers in the field. We invite all members of the AI community to attend the workshop. 
 
 ### Registration
-The early registration deadline for the conference is __TBA__. We strongly encourage workshop attendees to register for the workshops as early as possible. The registration can be found [here](https://nips.cc/accounts/login/?next=/Profile).
-
-<!--more-->
+The early registration deadline for the conference is __Sun October 13, 2019 11:59 EST:__. We strongly encourage workshop attendees to register for the workshops as early as possible. The registration can be found [here](https://nips.cc/accounts/login/?next=/Profile).
 
 
 ### Important Dates
 
-* __Tue July 30, 2019 11:00 PM UTC:__ Abstract submission deadline
-* __Wed July 31, 2019 11:00 PM UTC:__ Travel grant application deadline 
+* <span style="color:red">~~__Tue July 30, 2019 11:00 PM UTC:__ Abstract submission deadline~~</span>
+
+* <span style="color:blue">__Extended:__</span> __Tue Aug 06, 2019 11:00 PM UTC:__ Abstract submission deadline
+
+* <span style="color:red">~~__Wed July 31, 2019 11:00 PM UTC:__ Travel grant application deadline~~</span> 
+
+* <span style="color:blue">__Extended:__</span> __Wed Aug 07, 2019 11:00 PM UTC:__ Travel grant application deadline 
+
 * __TBA:__ Notification of travel grant acceptance
 * __TBA:__ Notification of submission acceptance
 * __Sun October 13, 2019 11:59 EST:__ NIPS early registration deadline
 * __Fri December 13, 2019 9:00 am to 5:30 pm EST:__ Third BAI Workshop
 
 *TBA=To be announced
-
-
-<!--
-Paper submission deadline: Tue July 30, 2019 11:00 PM UTC
-Submit at: https://cmt3.research.microsoft.com/BLACKINAI2019
-The site will start accepting submissions on July 7th.
-
-No extensions will be offered for submissions.
-
-
-Double-blinded reviews
-Submissions will be peer-reviewed by at least 2 reviewers, in addition to an area chair. The reviewing process will be double-blinded at the level of the reviewers. As an author, you are responsible for anonymizing your submission. In particular, you should not include author names, author affiliations, or acknowledgements in your submission and you should avoid providing any other identifying information.
-
-Travel grants
-Travel grants are available for eligible attendees, and should be submitted by  Wed July 31, 2019 11:00 PM UTC at the latest (Note that this is one day after the paper submission deadline). More details to follow on how to apply.
-Content guidelines
-Submissions must state the research problem, motivation, and contribution. Submissions must be self-contained and include all figures, tables, and references. 
-Here are a set of good sample papers from 2017: sample papers 
-
-
-Questions? Contact us at bai2019@blackinai.org.
-
--->
