@@ -36,8 +36,8 @@ Submissions will be peer-reviewed by at least 2 reviewers, in addition to an are
 Submissions may be up to two pages including all figures and tables, with an additional page for references. The submissions should be in a single column. They should be typeset using 11-point or larger fonts and should have at least 1-inch margin all around. Submissions that do not follow these guidelines risk being rejected without consideration of their merits.  
 <br>
 
-Submissions must state the research problem, motivation, and technical contribution. Submissions must be self-contained and include all figures, tables, and references. The submission page can be found [here](https://cmt3.research.microsoft.com/BLACKINAI2019) and the submission deadline is __Tue July 30, 2019 11:00 PM UTC__. 
+Submissions must state the research problem, motivation, and technical contribution. Submissions must be self-contained and include all figures, tables, and references. The submission page can be found [here](https://cmt3.research.microsoft.com/BLACKINAI2019) and the submission deadline is <span style="color:red">~~__Tue July 31, 2019 11:00 PM UTC__~~</span> <span style="color:blue">__Now extended to:__</span> __Tue Aug 06, 2019 11:00 PM UTC:__.
 
-**Please note that no extensions will be offered for submissions!**.
+**Please note that no further extensions will be offered for submissions!**.
 
 Here are a set of good sample papers from previous workshops: [sample papers](https://github.com/blackinai/blackinai.github.io/tree/master/papers)
