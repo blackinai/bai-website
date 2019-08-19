@@ -18,6 +18,7 @@ aliases = ["post/submissions/"]
 image = "vancouver-convention-centre-green-roof.jpg"
 caption = "Vancouver"
 +++
+<span style="color:red">__The deadline for submissions has officially passed!__</span>
 
 We welcome works in artificial intelligence, including, but not limited to, computer vision, deep learning, knowledge reasoning, machine learning, multi-agent systems, natural language processing, statistical reasoning, theory, robotics, as well as applications of AI to other domains such as health and education, and submissions concerning fairness, ethics, and transparency in AI. Papers may introduce new theory, methodology, or applications.
 
@@ -36,8 +37,8 @@ Submissions will be peer-reviewed by at least 2 reviewers, in addition to an are
 Submissions may be up to two pages including all figures and tables, with an additional page for references. The submissions should be in a single column. They should be typeset using 11-point or larger fonts and should have at least 1-inch margin all around. Submissions that do not follow these guidelines risk being rejected without consideration of their merits.  
 <br>
 
-Submissions must state the research problem, motivation, and technical contribution. Submissions must be self-contained and include all figures, tables, and references. The submission page can be found [here](https://cmt3.research.microsoft.com/BLACKINAI2019) and the submission deadline is <span style="color:red">~~__Tue July 31, 2019 11:00 PM UTC__~~</span> <span style="color:blue">__Now extended to:__</span> __Tue Aug 06, 2019 11:00 PM UTC:__.
+Submissions must state the research problem, motivation, and technical contribution. Submissions must be self-contained and include all figures, tables, and references. The submission page can be found [here](https://cmt3.research.microsoft.com/BLACKINAI2019) and the submission deadline is ~~<span style="color:red">__Tue July 31, 2019 11:00 PM UTC__</span> <span style="color:blue">__Now extended to:__</span> __Tue Aug 06, 2019 11:00 PM UTC__~~.
 
-**Please note that no further extensions will be offered for submissions!**.
+<span style="color:red">__The deadline for submissions has officially passed!__</span>
 
 Here are a set of good sample papers from previous workshops: [sample papers](https://github.com/blackinai/blackinai.github.io/tree/master/papers)
