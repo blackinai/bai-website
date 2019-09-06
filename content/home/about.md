@@ -20,17 +20,17 @@ weight = 2
 # List of Workshops and Major Events.
 [[education.courses]]
   course = "[3rd Black in AI Workshop](http://blackinai.github.io/workshop/2019/cfp/)"
-  institution = "in Conjuction with NeurIPS 2018"
+  institution = "in conjunction with NeurIPS 2019"
   year = 2019
   
 [[education.courses]]
   course = "[2nd Black in AI Workshop](http://blackinai.github.io/workshop/2018/cfp/)"
-  institution = "in Conjuction with NIPS 2018"
+  institution = "in conjunction with NIPS 2018"
   year = 2018
 
 [[education.courses]]
   course = "[1st Black in AI Workshop](http://blackinai.github.io/workshop/2017/cfp/)"
-  institution = "in Conjuction with NIPS 2017"
+  institution = "in conjunction with NIPS 2017"
   year = 2017
 
 +++

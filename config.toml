@@ -6,14 +6,14 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://esube.github.io/"
+baseurl = "https://blackinai.github.io/"
 
 # Title of your site
 title = "Black in AI"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018 Black in AI"
+copyright = "&copy; 2019 Black in AI"
 
 theme = "academic"
 enableEmoji = true
