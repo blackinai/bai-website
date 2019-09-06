@@ -25,12 +25,12 @@ weight = 2
   
 [[education.courses]]
   course = "[2nd Black in AI Workshop](http://blackinai.github.io/workshop/2018/cfp/)"
-  institution = "in conjunction with NIPS 2018"
+  institution = "in conjunction with NeurIPS 2018"
   year = 2018
 
 [[education.courses]]
   course = "[1st Black in AI Workshop](http://blackinai.github.io/workshop/2017/cfp/)"
-  institution = "in conjunction with NIPS 2017"
+  institution = "in conjunction with NeurIPS 2017"
   year = 2017
 
 +++
