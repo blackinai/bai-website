@@ -42,13 +42,13 @@ The early registration deadline for the conference is __Sun October 13, 2019 11:
 
 * <span style="color:red">~~__Tue July 30, 2019 11:00 PM UTC:__ Abstract submission deadline~~</span>
 
-* ~~<span style="color:blue">__Extended:__</span> __Tue Aug 06, 2019 11:00 PM UTC:__ Abstract submission deadline~~
+* <span style="color:red">~~__Extended:__ __Tue Aug 06, 2019 11:00 PM UTC:__ Abstract submission deadline~~</span>
 
 * <span style="color:red">~~__Wed July 31, 2019 11:00 PM UTC:__ Travel grant application deadline~~</span> 
 
-* ~~<span style="color:blue">__Extended:__</span> __Wed Aug 07, 2019 11:00 PM UTC:__ Travel grant application deadline~~
+* <span style="color:red">~~__Extended:__ __Wed Aug 07, 2019 11:00 PM UTC:__ Travel grant application deadline~~</span>
 
-* __30th August, 2019:__ Notification of travel grant approval/rejection
-* __31st August, 2019:__ Notification of paper submission acceptance/rejection
+* <span style="color:red">~~__30th August, 2019:__ Notification of travel grant approval/rejection~~</span>
+* <span style="color:red">~~__31st August, 2019:__ Notification of paper submission acceptance/rejection~~</span>
 * __Sun October 13, 2019 11:59 EST:__ NIPS early registration deadline
-* __Fri December 13, 2019 9:00 am to 5:30 pm EST:__ Third BAI Workshop
+* __Monday December 9th, 2019 9:00 am to 5:30 pm EST:__ Third BAI Workshop

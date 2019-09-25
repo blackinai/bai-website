@@ -50,8 +50,6 @@ Thanks to our corporate sponsors, the workshop is free to attendees and we are a
 
 {{< figure src="/img/bloomberg.png" target="_blank" link="https://www.bloomberg.com/" class="img-sponsor-c">}}
 
-{{< figure src="/img/pinterest.png" target="_blank" link="https://www.pinterest.com/" class="img-sponsor-c">}}
-
 <hr>
 
 <!-- We thank [B4 Capital Group](https://b4capitalgroup.com/) for their support
@@ -69,7 +67,7 @@ We thank the following companies and institutions for their support.
  - [Kaggle](https://www.kaggle.com/)
  - [InstaDeep](https://www.linkedin.com/company/instadeep/)
  - [Vector Institute](https://vectorinstitute.ai/)
--->
+
 <hr>
 
 We also thank the following institutions for sponsoring their students to attend the  workshop
@@ -88,3 +86,4 @@ We also thank the following institutions for sponsoring their students to attend
  - University of California, Berkeley
  - University of Illinois at Urbana-Champaign
  - University of Montreal, Montreal Institute for Learning Algorithms (MILA)
+-->
