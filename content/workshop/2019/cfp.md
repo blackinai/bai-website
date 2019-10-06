@@ -50,5 +50,5 @@ The early registration deadline for the conference is __Sun October 13, 2019 11:
 
 * <span style="color:red">~~__30th August, 2019:__ Notification of travel grant approval/rejection~~</span>
 * <span style="color:red">~~__31st August, 2019:__ Notification of paper submission acceptance/rejection~~</span>
-* __Sun October 13, 2019 11:59 EST:__ NIPS early registration deadline
+* __Sun October 13, 2019 11:59 EST:__ NeurIPS early registration deadline
 * __Monday December 9th, 2019 9:00 am to 5:30 pm EST:__ Third BAI Workshop
