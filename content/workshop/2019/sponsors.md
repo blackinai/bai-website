@@ -19,21 +19,27 @@ Thanks to our corporate sponsors, the workshop is free to attendees and we are a
 
 <!--{{< figure src="/img/blackinai.png" class="img-sponsor-icon">}} -->
 
+{{< figure src="/img/accenture.png" target="_blank" link="http://www.accenture.com/" class="img-sponsor-c">}}
+
+{{< figure src="/img/deepmind.png" target="_blank" link="http://www.deepmind.com/" class="img-sponsor-c">}}
+
 {{< figure src="/img/facebook.jpg" target="_blank" link="http://research.fb.com/" class="img-sponsor-c">}}
 
 {{< figure src="/img/google.png" target="_blank" link="https://ai.google/" class="img-sponsor-c">}}
 
-{{< figure src="/img/deepmind.png" target="_blank" link="http://www.deepmind.com/" class="img-sponsor-c">}}
-
-{{< figure src="/img/accenture.png" target="_blank" link="http://www.accenture.com/" title="Accenture" class="img-sponsor-c">}}
+{{< figure src="/img/hopper-dean.png" target="_blank" link="#" class="img-sponsor-c">}}
 
 <hr>
 
 ## <span style="color:Platinum">Platinum Sponsors</span>
 
+{{< figure src="/img/apple.png" target="_blank" link="http://www.apple.com/" class="img-sponsor-c">}}
+
 {{< figure src="/img/microsoft.png" target="_blank" link="http://www.microsoft.com/research" class="img-sponsor-c">}}
 
-{{< figure src="/img/apple.png" target="_blank" link="http://www.apple.com/" class="img-sponsor-c">}}
+{{< figure src="/img/openai.png" target="_blank" link="http://www.openai.com/" class="img-sponsor-c">}}
+
+{{< figure src="/img/pai.png" target="_blank" link="http://www.partnershiponai.org/" class="img-sponsor-c">}}
 
 <hr>
 
@@ -41,6 +47,7 @@ Thanks to our corporate sponsors, the workshop is free to attendees and we are a
 
 {{< figure src="/img/amazon.png" target="_blank" link="http://amazon.jobs/NIPS" class="img-sponsor-c">}}
 
+{{< figure src="/img/ibm.png" target="_blank" link="https://www.research.ibm.com/artificial-intelligence/" class="img-sponsor-c">}}
 
 <hr>
 
@@ -50,18 +57,20 @@ Thanks to our corporate sponsors, the workshop is free to attendees and we are a
 
 {{< figure src="/img/bloomberg.png" target="_blank" link="https://www.bloomberg.com/" class="img-sponsor-c">}}
 
+{{< figure src="/img/oracle.png" target="_blank" link="https://www.oracle.com/" class="img-sponsor-c">}}
+
+{{< figure src="/img/uber.png" target="_blank" link="https://www.uber.com/" class="img-sponsor-c">}}
+
 <hr>
 
 <!-- We thank [B4 Capital Group](https://b4capitalgroup.com/) for their support
 <br><br> -->
 
-<!-- {{< figure src="/img/airbnb.png" class="img-sponsor-c">}}
-
-{{< figure src="/img/kaggle.png" class="img-sponsor-c">}} -->
-
 We thank the following companies and institutions for their support.
 
  - [MILA](https://mila.quebec/en/)
+ - [Element AI](https://www.elementai.com/)
+
 
 <!-- [Airbnb](https://www.airbnb.com/)
  - [Kaggle](https://www.kaggle.com/)
