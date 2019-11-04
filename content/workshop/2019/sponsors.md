@@ -15,6 +15,10 @@ linktitle = "Sponsors 2019"
 Thanks to our corporate sponsors, the workshop is free to attendees and we are able to provide inclusive travel funding to select participants.
 
 <hr>
+## <span style="color:Gold">Title Sponsor</span>
+
+{{< figure src="/img/mcarthur.png" target="_blank" link="https://www.macfound.org/" class="img-sponsor-c">}}
+
 ## <span style="color:lightblue">Diamond Sponsors</span>
 
 <!--{{< figure src="/img/blackinai.png" class="img-sponsor-icon">}} -->
@@ -28,6 +32,8 @@ Thanks to our corporate sponsors, the workshop is free to attendees and we are a
 {{< figure src="/img/google.png" target="_blank" link="https://ai.google/" class="img-sponsor-c">}}
 
 {{< figure src="/img/hopper-dean.png" target="_blank" link="#" class="img-sponsor-c">}}
+
+{{< figure src="/img/rockefeller.png" target="_blank" link="https://www.rockefellerfoundation.org/" class="img-sponsor-c">}}
 
 <hr>
 
