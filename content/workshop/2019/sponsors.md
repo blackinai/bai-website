@@ -65,7 +65,7 @@ Thanks to our corporate sponsors, the workshop is free to attendees and we are a
 
 {{< figure src="/img/oracle.png" target="_blank" link="https://www.oracle.com/" class="img-sponsor-c">}}
 
-{{< figure src="/img/uber.png" target="_blank" link="https://www.uber.com/" class="img-sponsor-c">}}
+{{< figure src="/img/uber-new.png" target="_blank" link="https://www.uber.com/" class="img-sponsor-c">}}
 
 <hr>
 
