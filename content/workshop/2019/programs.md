@@ -40,6 +40,24 @@ Workshop is at <b>the convention Center Eastern Building Rooms 1,2,3</b>
 | 05:55-06:20 pm    | Awards & Closing Remarks      | | |
 | 06:30-08:00 pm    | Joint Affinity Groups Poster Session (co-located with NeurIPS opening reception, NeurIPS registration not required)         | | |
 
-# Invited Talk Speakers
+# Invited Speakers
 
-Coming soon...
+<hr>
+## [Ruha Benjamin](https://www.ruhabenjamin.com)
+
+{{< figure src="/img/ruha.jpeg" class="img-sponsor-c">}}
+
+<b>Presentation Format</b>: "Fireside Chat at the BAI Dinner"
+
+<b>Bio</b>: Dr. Ruha Benjamin is Associate Professor of African American Studies at Princeton University, founder of the JUST DATA Lab, and author of People’s Science: Bodies and Rights on the Stem Cell Frontier (2013) and Race After Technology: Abolitionist Tools for the New Jim Code (2019) among other publications. Her work investigates the social dimensions of science, medicine, and technology with a focus on the relationship between innovation and inequity, health and justice, knowledge and power. Professor Benjamin is the recipient of numerous awards and fellowships including from the American Council of Learned Societies, National Science Foundation, Institute for Advanced Study, and the President’s Award for Distinguished Teaching at Princeton. For more info visit www.ruhabenjamin.com.
+
+<hr>
+## [Charity Wayua](https://www.linkedin.com/in/charity-wayua-70228b14/)
+
+{{< figure src="/img/charity.jpg" class="img-sponsor-c">}}
+
+<b>Presentation Format</b>: "Fireside Chat at the BAI Dinner"
+
+<b>Bio</b>: Charity is currently a Research Manager at IBM Research Africa. She leads the Public Sector team whose mission is to develop commercially viable technologies that transform how governments function and provide services to their citizens. She and her colleagues are currently working withe the Kenyan government as technical advisors to develop and help implement reforms that transform the business environment for SME's to thrive. In the first year of implementation this work resulted in Kenya's ranking on the World Bank annual Ease of Doing Business ranking improving by 21 spots and Kenya was rated the third top reformer in the world.
+
+Charity holds a PhD in Chemistry from Purdue University and a Bachelor's degree in Chemistry from Xavier University.
