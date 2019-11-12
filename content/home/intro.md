@@ -1,36 +1,42 @@
 ﻿+++
 widget = "custom"
-active = false
+active = true
 
 title = ""  
 subtitle = ""  
 
 # Order that this section will appear in.
-weight = 30
+weight = 1
 +++
 
 <div style="height: 5px;"></div>
 
 {{% jumbotron %}}
 
-# BAI Workshop 2018
+# BAI Workshop 2019
 
-The second Black in AI event will be co-located with [NIPS 2018](https://nips.cc/) at the [Palais des Congrès de Montréal (Montreal Convention Centre)](https://congresmtl.com/)  in Montréal CANADA on December 7th from 9:00 am to 5:30 pm. The workshop will feature invited talks from prominent researchers and practitioners, oral presentations, and a poster session. There will also be socials to facilitate networking, discussion of different career opportunities in AI, and sharing of ideas to increase participation of Black researchers in the field. We invite all members of the AI community to attend the workshop. The early registration deadline for the conference is October 24, 2018. We strongly encourage workshop attendees to register for the workshops as early as possible. The registration can be found [here](https://nips.cc/accounts/login/?next=/Profile).
+The 3rd Black in AI event will be co-located with [NeurIPS 2019](https://nips.cc/) at the [Vancouver Convention Center, Vancouver Canada](https://www.vancouverconventioncentre.com/) on <b>December 9th from 7:30 am to 8:00 pm PST</b>. The workshop will feature a panel discussion and invited talks from prominent researchers and practitioners, oral presentations, and a poster session. We invite all members of the AI community to attend the workshop. Please, register at <b>[this registration link](https://www.eventbrite.com/e/3rd-black-in-ai-workshop-at-neurips2019-tickets-78816631667)</b>.
 
-<div style="text-align: center;">
-  <a class="btn btn-intro btn-lg" href="/workshop/2018/cfp/">CFP 2018</a>
-</div>
-
-## Important Dates
- - <span style="color:red">**~~August 24th, 2018: Travel grant application deadline~~**</span>
- - <span style="color:red">**~~August 30th, 2018: Abstract submission deadline~~**</span>
- - <span style="color:red">**~~October 1st, 2018: Notification of travel grant acceptance~~**</span>
- - <span style="color:red">**~~September 30th, 2018: Notification of submission acceptance~~**</span>
- - <span style="color:red">**~~October 24th, 2018: NIPS early registration deadline~~**</span>
- - December 7th, 2018: Workshop
+There will also be a reception followed by the annual dinner to facilitate networking, discussion of different career opportunities in AI, and sharing of ideas to increase participation of Black researchers in the field. The dinner will take place on <b>December 13th</b> at the [Sheraton Vancouver Wall Centre](https://www.marriott.com/hotels/travel/yvrws-sheraton-vancouver-wall-centre/).
 
 <div style="text-align: center;">
-  <a class="btn btn-intro btn-lg" style="font-size: 1rem; margin-bottom: 0;" href="https://cmt3.research.microsoft.com/BLACKINAI2018" target="_blank">Submit Your Abstract</a>
+  <a class="btn btn-intro btn-lg" href="https://www.eventbrite.com/e/3rd-black-in-ai-workshop-at-neurips2019-tickets-78816631667">Register for BAI 2019</a>
 </div>
+
+### Important Dates
+
+* <span style="color:red">~~__Tue July 30, 2019 11:00 PM UTC:__ Abstract submission deadline~~</span>
+
+* <span style="color:red">~~__Extended:__ __Tue Aug 06, 2019 11:00 PM UTC:__ Abstract submission deadline~~</span>
+
+* <span style="color:red">~~__Wed July 31, 2019 11:00 PM UTC:__ Travel grant application deadline~~</span> 
+
+* <span style="color:red">~~__Extended:__ __Wed Aug 07, 2019 11:00 PM UTC:__ Travel grant application deadline~~</span>
+
+* <span style="color:red">~~__30th August, 2019:__ Notification of travel grant approval/rejection~~</span>
+* <span style="color:red">~~__31st August, 2019:__ Notification of paper submission acceptance/rejection~~</span>
+* <span style="color:red">~~__Sun October 13, 2019 11:59 EST:__ NeurIPS early registration deadline~~</span>
+* __Monday December 9th, 2019 7:00 am to 8:00 pm PST:__ The Third BAI Workshop
+* __Friday December 13th, 2019 7:00 pm to midnight PST:__ The Third BAI Dinner
 
 {{% /jumbotron %}}
