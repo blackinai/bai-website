@@ -61,7 +61,7 @@ Workshop is at <b>the convention Center Eastern Building Rooms 1,2,3</b>
 
 <b>Presentation Format</b>: "Fireside Chat at the BAI Dinner"
 
-<b>Bio</b>: Charity is currently a Research Manager at IBM Research Africa. She leads the Public Sector team whose mission is to develop commercially viable technologies that transform how governments function and provide services to their citizens. She and her colleagues are currently working withe the Kenyan government as technical advisors to develop and help implement reforms that transform the business environment for SME's to thrive. In the first year of implementation this work resulted in Kenya's ranking on the World Bank annual Ease of Doing Business ranking improving by 21 spots and Kenya was rated the third top reformer in the world.
+<b>Bio</b>: Charity is currently a Research Manager at IBM Research Africa. She leads the Public Sector team whose mission is to develop commercially viable technologies that transform how governments function and provide services to their citizens. She and her colleagues are currently working with the Kenyan government as technical advisors to develop and help implement reforms that transform the business environment for SME's to thrive. In the first year of implementation this work resulted in Kenya's ranking on the World Bank annual Ease of Doing Business ranking improving by 21 spots and Kenya was rated the third top reformer in the world.
 
 Charity holds a PhD in Chemistry from Purdue University and a Bachelor's degree in Chemistry from Xavier University.
 
