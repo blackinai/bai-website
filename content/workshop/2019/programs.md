@@ -48,7 +48,7 @@ Workshop is at <b>the convention Center Eastern Building Rooms 1,2,3</b>
 | 08:00-10:00 pm  | Dinner & Networking               |                       |                                        |
 | 08:30-09:00 pm  | BAI Presentations    |                       |                                        |
 | 09:00-10:00 pm  | Fireside Chat        | Ruha Benjamin & Charity Wayua |                                        |
-| 10:00-02:00 am  | Networking & The Annual BAI Music |                       |                                        |
+| 10:00-02:00 am  | Networking & The Annual BAI Music (featuring the legendary [DJ Hassan Kane](https://www.linkedin.com/in/mohamed-hassan-kane-4b50328a))  |                       |                                        |
 
 # Dinner Invited Speakers
 
