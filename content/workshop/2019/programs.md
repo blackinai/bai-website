@@ -19,7 +19,7 @@ This program is <b>tentative</b> and things might change before the workshop dat
 
 Workshop is at <b>the convention Center Eastern Building Rooms 1,2,3</b>
 
-| Time Interval     | Event                | Speaker               | Institution                            |
+| Time              | Event                | Speaker               | Institution                            |
 |-------------------|----------------------|-----------------------|----------------------------------------|
 | 07:00-08:00 am    | Registration (NeurIPS registration not required)        | | |
 | 08:00-08:30 am    | Mentorship & Breakfast      | | |
@@ -42,12 +42,16 @@ Workshop is at <b>the convention Center Eastern Building Rooms 1,2,3</b>
 | 05:00-05:30 pm    | Awards & Closing Remarks      | | |
 | 05:30 pm	    | BREAK		   | | |
 | 06:30-08:00 pm    | Joint Affinity Groups Poster Session (co-located with NeurIPS opening reception, NeurIPS registration not required)         | | |
-<td colspan=2> Receiption on <b>Friday, December 13th at 7 pm PST</b> will be followed by the annual dinner at the <b>[Sheraton Vancouver Wall Centre](https://www.marriott.com/hotels/travel/yvrws-sheraton-vancouver-wall-centre/)</b>.|
-| 07:00-07:30 pm  | Reception & Networking|                       |                                        |
+
+The 3rd BAI annual dinner will be held on <b>Friday, December 13th at 6:30 pm PST</b> at the <b>[Sheraton Vancouver Wall Centre](https://www.marriott.com/hotels/travel/yvrws-sheraton-vancouver-wall-centre/)</b>.
+
+| Time            | Event                | Speaker               | Institution                            |
+|-----------------|----------------------|-----------------------|----------------------------------------|
+| 06:30-07:30 pm  | Reception & Networking|                       |                                        |
 | 07:30-08:00 pm  | Welcome to Dinner    |                       |                                        |
 | 08:00-10:00 pm  | Dinner & Networking               |                       |                                        |
 | 08:30-09:00 pm  | BAI Presentations    |                       |                                        |
-| 09:00-10:00 pm  | Fireside Chat        | Ruha Benjamin & Charity Wayua |                                        |
+| 09:00-10:00 pm  | Fireside Chat        | Ruha Benjamin & Charity Wayua | Princeton U. & IBM Research Africa                                        |
 | 10:00-02:00 am  | Networking & The Annual BAI Music (featuring the legendary [DJ Hassan Kane](https://www.linkedin.com/in/mohamed-hassan-kane-4b50328a))  |                       |                                        |
 
 # Dinner Invited Speakers
