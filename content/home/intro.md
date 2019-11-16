@@ -19,7 +19,7 @@ weight = 1
   <a class="btn btn-intro btn-lg" href="https://www.eventbrite.com/e/3rd-black-in-ai-workshop-at-neurips2019-tickets-78816631667">Register for BAI 2019</a>
 </div>
 
-The 3rd Black in AI event will be co-located with [NeurIPS 2019](https://nips.cc/) at the [Vancouver Convention Center, Vancouver Canada](https://www.vancouverconventioncentre.com/) on <b>December 9th from 7:30 am to 8:00 pm PST</b>. The workshop will feature a panel discussion and invited talks from prominent researchers and practitioners, oral presentations, and a poster session. We invite all members of the AI community to attend the workshop. Please, register at <b>[this registration link](https://www.eventbrite.com/e/3rd-black-in-ai-workshop-at-neurips2019-tickets-78816631667)</b>.
+The 3rd Black in AI workshop will be co-located with [NeurIPS 2019](https://nips.cc/) at the [Vancouver Convention Center, Vancouver Canada](https://www.vancouverconventioncentre.com/) on <b>December 9th from 7:30 am to 8:00 pm PST</b>. The workshop will feature a panel discussion and invited talks from prominent researchers and practitioners, oral presentations, and a poster session. We invite all members of the AI community to attend the workshop. Please, register at <b>[this registration link](https://www.eventbrite.com/e/3rd-black-in-ai-workshop-at-neurips2019-tickets-78816631667)</b>.
 
 {{< figure src="/img/ruha_with_book.jpg" class="img-sponsor">}}
 {{< figure src="/img/charity.jpg" class="img-sponsor-c">}}
