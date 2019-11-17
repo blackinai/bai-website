@@ -22,22 +22,22 @@ Workshop is at <b>the convention Center Eastern Building Rooms 1,2,3</b>
 | Time              | Event                | Speaker               | Institution                            |
 |-------------------|----------------------|-----------------------|----------------------------------------|
 | 07:00-08:00 am    | Registration (NeurIPS registration not required)        | | |
-| 08:00-08:30 am    | Mentorship & Breakfast      | | |
+| 08:00-08:30 am    | Mentorship Breakfast      | | |
 | 09:00-09:10 am    | Opening Remarks      | | |
-| 09:10-09:45 am    | Invited Talk 1    | Elaine Nsoesie | Boston University |
-| 09:45-10:00 am    | Contributed Talk 1               | | |
-| 10:00-10:15 am    | Contributed Talk 2               | | |
-| 10:15-10:30 am    | Contributed Talk 3               | | |
+| 09:10-09:45 am    | Invited Talk 1    | Elaine Nsoesie | Boston University, USA |
+| 09:45-10:00 am    | Contributed Talk 1               |Selameab Demilew |University of Ottawa, Canada |
+| 10:00-10:15 am    | Contributed Talk 2               |Abeba Birhane |University College Dublin, Ireland |
+| 10:15-10:30 am    | Contributed Talk 3               |Neema Mduma |NMAIST, South Africa |
 | 10:30-11:00 am    | Coffee Break         | | |
-| 11:00-11:35 am    | Invited Talk 2    | Sarah Menker | Gro Intelligence |
-| 11:35-11:50 am    | Contributed Talk 4               | | |
-| 11:50-12:05 pm    | Contributed Talk 5               | | |
-| 12:05-12:20 pm    | Contributed Talk 6               | | |
+| 11:00-11:35 am    | Invited Talk 2    | Sarah Menker | Gro Intelligence, USA |
+| 11:35-11:50 am    | Contributed Talk 4               |Israel Birhane |MILA, Canada |
+| 11:50-12:05 pm    | Contributed Talk 5               |Robert Ness |Gamalon, Inc, USA |
+| 12:05-12:20 pm    | Contributed Talk 6               |Folake Akinbohun |Rufus Giwa Polytechnic, Nigeria |
 | 12:20-02:45 pm    | Lunch + Joint Poster Session with WiML      | | |
-| 02:45-03:00 pm    | Contributed Talk 7               | | |
-| 03:00-03:15 pm    | Contributed Talk 8               | | |
+| 02:45-03:00 pm    | Contributed Talk 7               |Rahel Tamiru |Bahir Dar Universty, Ethiopia |
+| 03:00-03:15 pm    | Contributed Talk 8               |Wilka Carvalho |University of Michigan--Ann Arbor, USA |
 | 03:15-03:45 pm    | Coffee Break	   | | |
-| 03:45-04:20 pm    | Invited Talk 3            |Matthew Kenney |Duke University |
+| 03:45-04:20 pm    | Invited Talk 3            |Matthew Kenney |Duke University, USA |
 | 04:20-05:00 pm    | Panel Discussion     | | |
 | 05:00-05:30 pm    | Awards & Closing Remarks      | | |
 | 05:30 pm	    | BREAK		   | | |
@@ -54,6 +54,7 @@ The 3rd BAI annual dinner will be held on <b>Friday, December 13th at 6:30 pm PS
 | 09:00-10:00 pm  | Fireside Chat        | Ruha Benjamin & Charity Wayua | Princeton U. & IBM Research Africa                                        |
 | 10:00-02:00 am  | Networking & The Annual BAI Music (featuring the legendary [DJ Hassan Kane](https://www.linkedin.com/in/mohamed-hassan-kane-4b50328a))  |                       |                                        |
 
+<hr>
 # Dinner Invited Speakers
 
 <hr>
@@ -76,6 +77,7 @@ The 3rd BAI annual dinner will be held on <b>Friday, December 13th at 6:30 pm PS
 
 Charity holds a PhD in Chemistry from Purdue University and a Bachelor's degree in Chemistry from Xavier University.
 
+<hr>
 # Workshop Invited Speakers
 
 <hr>
@@ -105,7 +107,7 @@ Charity holds a PhD in Chemistry from Purdue University and a Bachelor's degree 
 <b>Bio</b>: Sara Menker is the founder and CEO of Gro Intelligence. Gro is AI for agriculture. Gro’s platform automatically harvests vast amounts of disparate global agricultural data, transforms it into knowledge, and generates predictions for volatile markets. Prior to founding Gro, Sara was a Vice President in Morgan Stanley’s commodities group. She began her career in commodities risk management, where she covered all commodity markets, and subsequently moved to trading, where she managed an options trading portfolio. Sara is a Trustee of the Mandela Institute For Development Studies (MINDS) and a Trustee of the International Center for Tropical Agriculture (CIAT). Sara was named a Global Young Leader by the World Economic Forum and is a fellow of the Aspen Institute. Sara received a B.A. in Economics and African Studies at Mount Holyoke College and the London School of Economics and an M.B.A. from Columbia University.
 
 <hr>
-## [Matthew Kenney](http://matthewkenney.site)
+## [Matthew Kenney](http://www.mattkenney.me/about/)
 
 {{< figure src="/img/matthew.jpg" class="img-sponsor-c">}}
 
@@ -116,6 +118,106 @@ Charity holds a PhD in Chemistry from Purdue University and a Bachelor's degree 
 <b>Abstract</b>: Developing machine learning systems that address social biases and potential misuse requires creative approaches. Recently, we have seen the development of models that contain substantial social biases, as well as models ripe for potential misuse in relation to neural disinformation. In this lecture, I examine how creative technologists, researchers in the digital humanities, and machine learning researchers can work together to develop more robust defenses. I discuss how a deep understanding of historical context can inform current socio-political impacts of neural disinformation and bias in machine learning models. I then highlight research that operationalizes these models, and discuss how we might foster critical interactions between research fields to combat bias and misuse moving forward.
 
 <b>Bio</b>: Matthew Kenney is a researcher, developer, and designer. His work centers on the intersection of technology, design, and critical software development. He is a researcher at Duke University in Computational Media Arts and Cultures, where he teaches classes on machine learning, software development and interaction design. His research areas include machine learning, race, society and information studies. He holds a Bachelor’s of Science from Cornell University and a Masters in New Media from Penn State University.
+
+<hr>
+# Workshop Contributed Speakers
+
+<hr>
+## <b>Selameab Demilew</b>
+
+<b>Presentation Format</b>: "Contributed talk at the BAI Workshop"
+
+<b>Authors</b>: Selameab Demilew (University of Ottawa)*
+
+<b>Title of Presentation</b>: Camera and LIDAR Fusion for Vehicle Detection in Low-Radiance Scenes
+
+<b>Abstract</b>: Object detection has seen remarkable progress in the past couple of years. Most notably, the RCNN series and SSD have brought about profound developments by using convolutional neural networks. However, real world use cases such as robotics and autonomous vehicles do not guarantee ideal lighting conditions for these algorithms to perform at full capacity. This demand, propelled by the explosion of sensors and computing power, has led to the development of robust algorithms capable of estimating the position of objects based on measurements from multiple sensors. In this paper, we summarize the gain and limitations of augmenting color images from a regular camera with depth information from LIDARs. This is an ongoing research to identify and rectify shortcomings in image based object detection algorithms with emphasis on self-driving cars.
+
+<hr>
+## <b>Abeba Birhane</b>
+
+<b>Presentation Format</b>: "Contributed talk at the BAI Workshop"
+
+<b>Authors</b>: Abeba Birhane (University College Dublin)*; Fred  Cummins (University College Dublin )
+
+<b>Title of Presentation</b>: Algorithmic Injustices: Towards a Relational Ethics
+
+<b>Abstract</b>: Decision-making processes in various social, political, and economical spheres are increasingly assisted by algorithmic systems. Improved efficiency, the hallmark of these systems, drives the mass scale integration of algorithmic systems into daily life. However, as a robust body of research in the area of algorithmic injustice shows [1], [2], [3], algorithmic tools embed and perpetuate societal and historical injustice. A persistent recurring trend within the literature indicates that society’s most vulnerable are disproportionally impacted. When algorithmic unfairness is brought to the fore, most of the solutions on offer 1) revolve around technical solutions and 2) do not centre disproportionally impacted groups. This paper zooms out and draws the bigger picture. It 1) argues that concerns surrounding algorithmic decision making and algorithmic injustice require fundamental rethinking above and beyond technical solutions, and 2) outlines a way forward in a manner that centres vulnerable groups through the lens of relational ethics.
+
+<hr>
+## <b>Neema Mduma</b>
+
+<b>Presentation Format</b>: "Contributed talk at the BAI Workshop"
+
+<b>Authors</b>: Neema Mduma (The Nelson Mandela African Institution of Science and Technology)*; Khamisi Kalegele (Tanzania Commission for Science and Technology); Dina Machuve (The Nelson Mandela African Institution of Science and Technology)
+
+<b>Title of Presentation</b>: An Ensemble Predictive Model Based Prototype for Student Drop-out in Secondary Schools
+
+<b>Abstract</b>: When a student is absent from school for a continuous number of days as defined by the relevant authority, that student is considered to have dropped out of school. In Tanzania, for instance, drop-out is when a student is absent continuously for a period of 90 days. Despite the fact that several efforts have been made to improve the overall status of education at secondary level, the student drop-out problem still persists. Taking advantage of advancement in technology, several studies have used machine learning to address the student drop-out problem. However, most of the conducted studies have used datasets from developed countries, while developing countries are facing challenges on generating public datasets to be used to address this problem. Using a dataset from Tanzania which reflect a local scenario; this study presents an ensemble predictive model based prototype for student drop-out in secondary schools. The deployed model was developed by soft combining a tuned Logistic Regression and Multi-Layer Perceptron models. A feature engineering experiment was conducted to obtain the most important features for predicting student drop-out. Furthermore, a visualization module was integrated to assist interpretation of the machine learning results and we used a flask framework in the development of the prototype.
+
+<hr>
+## <b>Israel Birhane</b>
+
+<b>Presentation Format</b>: "Contributed talk at the BAI Workshop"
+
+<b>Authors</b>: Israel Birhane (Mila)*
+
+<b>Title of Presentation</b>: Nanoscale Microscopy Images Colourization Using Neural Networks
+
+<b>Abstract</b>: Grey microscopy images are powerful tools and widely used in major research areas, such as biology, chemistry, physics, and materials fields. However, most of the microscopy images are colorless due to the special imaging mechanism. For example, SEM produces images by scanning the surface of the sample with a focused beam of electrons, while AFM measures the forces between the probe and the sample as a function of their mutual separation. Though investigating on some popular solutions proposed recently about colorizing microscopy images, we notice the process of those methods are usually tedious, complicated, and time-consuming. 
+In this paper, we introduce two neural networks for gray microscopy image colorization: 
+1. An End-to-End convolutional neural network (CNN) with a pre-trained Inception ResNetV2 model for feature extraction. 
+2.A Neural Style Transfer convolutional neural network (NST-CNN), which can colorize grey microscopy images with semantic information learned from a user-provided color image at inference time. 
+Our experiments show that our algorithm could able to color the microscopy images under complex circumstances precisely.
+
+<hr>
+## <b>Robert Ness</b>
+
+<b>Presentation Format</b>: "Contributed talk at the BAI Workshop"
+
+<b>Authors</b>: Robert Ness (Gamalon Inc.), Kaushal Paneri (Northeastern University), Olga Vitek (Northeastern University)
+
+<b>Title of Presentation</b>: Integrating Markov processes with structural causal modeling enables counterfactual inference in complex systems
+
+<b>Abstract</b>: This manuscript contributes a general and practical framework for casting a Markov process model of a system at equilibrium as a structural causal model, and carrying out counterfactual inference. Markov processes mathematically describe the mechanisms in the system, and predict the system’s equilibrium behavior upon intervention, but do not support counterfactual inference. In contrast, structural causal models support counterfactual inference, but do not identify the mechanisms. This manuscript leverages the benefits of both approaches. We define the structural causal models in terms of the parameters and the equilibrium dynamics of the Markov process models, and counterfactual inference flows from these settings. The proposed approach alleviates the identifiability drawback of the structural causal models, in that the counterfactual inference is consistent with the counter- factual trajectories simulated from the Markov process model. We showcase the benefits of this framework in case studies of complex biomolecular systems with nonlinear dynamics. We illustrate that, in presence of Markov process model misspecification, counterfactual inference leverages prior data, and therefore estimates the outcome of an intervention more accurately than a direct simulation.
+
+<hr>
+## <b>Folake Akinbohun</b>
+
+<b>Presentation Format</b>: "Contributed talk at the BAI Workshop"
+
+<b>Authors</b>: Folake Akinbohun (Rufus Giwa Polytechnic, Owo)*; Olatubosun Olabode (The Federal University of Technology, Akure); Adetunmbi A.O (Department of computer science Federal University of  Technology, Akure Ondo state. Nigeria); Ambrose Akinbohun (University of Medical Sciences)
+
+<b>Title of Presentation</b>: Stacked Ensemble Model for Diagnosis of Head and Neck Cancer (HNC) in Primary Healthcare of Developing Countries
+
+<b>Abstract</b>: OBJECTIVE: The objective is to develop stacked ensemble models for the diagnosis of a patient with Head and Neck Cancer (HNC) using machine learning algorithms
+MOTIVATION: Studies have estimated the global incidence of all head and neck cancers to be between 400,000 and 600,000 new cases per year and the mortality rate is between 223,000 and 300,000 deaths per year (Chaturvedi et al., 2013, Jemal et al., 2011), therefore this research necessitates the study of the diagnosis of HNC so as to help both individual and government in developing countries to plan adequately in order to stem the tide.
+Most African patients with head and neck cancer present to primary care centres but the inability of the health workers to promptly refer them to the specialists for further diagnostic workup is difficult, thereby causing late referral with resultant poor prognosis (Allgar and Neal, 2005), there is a need to develop a system for easy diagnosis so that there would be prompt referral to the ENT (oto-rhino-laryngologist) specialist(s).
+METHOD: Developing stacked ensemble models for diagnosing Head and Neck Cancer (HNC) involves synthesized clinical data, feature selection, base level models and stacked ensemble models. The raw data were obtained from southwest hospitals in Nigeria where case notes of all histopathologically confirmed Head/Neck cancers were retrieved from medical records of the observed hospitals. The dataset consists of 1473 records and 18 features. Filter methods of feature selection are deployed where information gain and consistency are used to remove redundant and irrelevant features from the dataset. 
+Stacked ensemble model consists of two phases: In the first phase, training of the base learners where Decision tree C4.5, K-Nearest Neighbor, Naïve Bayes machine learning algorithms are used to build the base classifiers. The second phase is the training of meta level where Multinominal logistic regression (MLR) is used as the meta level algorithm.
+
+<hr>
+## <b>Rahel Tamiru</b>
+
+<b>Presentation Format</b>: "Contributed talk at the BAI Workshop"
+
+<b>Authors</b>: Rahel Tamiru (Bahir Dar Universty)*
+
+<b>Title of Presentation</b>: Prosody Based Automatic Speech Segmentation for Amharic
+
+<b>Abstract</b>: The main goal of this work is to develop sentence level automatic speech segmentation system for Amharic. Sentence segmentation is a process of identifying the end of a sentence. In this study, sentence segmentation system is implemented in to two approaches. In the first approach, we used an automatic tool for segmenting and labeling of Amharic speech data. Acoustic model is created using speech and their text scripts and compiling them into a statistical representation of sounds which makeup words. This is done through HMM modeling. The approach one automatic speech segmentation system is done by forced alignment. In this approach we used rule-based and AdaBoost to discriminate the true boundaries from false. In the second approach, we extracted prosodic features directly from speech waveform and also statistical method, AdaBoost, is used.  
+The evaluation of the experiments shows that monosyllable acoustic model is the better model to get accurate forced alignment than monophone and tide state tri-syllable model. And also adaboost classifier showed consistently good results especially in decision tree classifier. In all experiment read-aloud speech perform higher accuracy than spontaneous speech. It also indicates that spontaneous speech is more difficult than read-aloud because, the spontaneous speech contains more noise and disfluencies. The evaluation in phase two indicates that pause feature is a basic discriminator for Amharic sentence boundary. And also when prosodic features are introduced, the performance is increased. The scope of the research work is narrowed down only to sentences level segmentation. It is also required to conduct a research on automatic speech segmentation of other discrete units.
+
+<hr>
+## <b>Wilka Carvalho</b>
+
+<b>Presentation Format</b>: "Contributed talk at the BAI Workshop"
+
+<b>Authors</b>: Wilka Carvalho (University of Michigan--Ann Arbor), Kimin Lee (Korea Advanced Institute of Science and Technology), Richard Lewis (University of Michigan--Ann Arbor), Satinder Singh (University of Michigan--Ann Arbor/Deepmind) and Honglak Lee (University of Michigan--Ann Arbor/Google Brain)
+
+<b>Title of Presentation</b>: Efficiently Learning to Perform Household Tasks with Object-Oriented Exploration
+
+<b>Abstract</b>: Human perception and decision making are centered around perceiving objects and interacting with them. Remarkably, humans enter environments without knowledge of the objects or categories they will encounter and learn spatially invariant representations for novel object-categories as they explore object-interactions that fulfill their goals. Yet much work in deep reinforcement learning (RL) that requires explicit object-interaction has avoided the object perception problem and provided agents with a priori knowledge of the objects they will interact with. In this work, we explore how an RL agent without a priori knowledge of environment objects can efficiently learn to perform complex object-oriented tasks by learning invariant object-category representations. We propose a novel self-supervised object-memory module that leverages interactions with objects to learn a view-invariant object recognition function. We exploit this view-invariance by combining it with count-based exploration to enable object-oriented exploration. This enables our agent to explore among object-interactions instead of among all state-action pairs. In order to evaluate our method, we introduce a set of challenging tasks in the AI2Thor 3D-home environment and show that our approach enables sample-efficient learning of complex, object-oriented RL tasks.
 
 # Accepted Posters
 <p style="color: black">

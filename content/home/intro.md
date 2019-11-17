@@ -27,7 +27,7 @@ The 3rd Black in AI workshop will be co-located with [NeurIPS 2019](https://nips
 
 There will also be a reception followed by the annual BAI Dinner to facilitate networking, discussion of different career opportunities in AI, and sharing of ideas to increase participation of Black researchers in the field. The dinner will take place on <b>December 13th from 6:30 pm - midnight</b> at the [Sheraton Vancouver Wall Centre](https://www.marriott.com/hotels/travel/yvrws-sheraton-vancouver-wall-centre/). The dinner will feature a fireside chat with [Ruha Benjamin](https://www.ruhabenjamin.com) and [Charity Wayua](https://www.linkedin.com/in/charity-wayua-70228b14/). During the reception, [Ruha Benjamin](https://www.ruhabenjamin.com) will aslo sign her book: [Race After Technology](https://www.amazon.com/Race-After-Technology-Abolitionist-Tools/dp/1509526404).
 
-The workshop keynote speakers include: [Elaine Nsoesie](https://www.bu.edu/sph/profile/elaine-nsoesie/), [Sara Menker](http://www.gro-intelligence.com), and [Matthew Kenney](http://matthewkenney.site).
+The workshop keynote speakers include: [Elaine Nsoesie](https://www.bu.edu/sph/profile/elaine-nsoesie/), [Sara Menker](http://www.gro-intelligence.com), and [Matthew Kenney](http://www.mattkenney.me/about/).
 
 {{< figure src="/img/nsoesie.jpg" class="img-sponsor-c">}}
 {{< figure src="/img/sara.jpg" class="img-sponsor-c">}}

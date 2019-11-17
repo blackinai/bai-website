@@ -76,6 +76,8 @@ We thank the following companies and institutions for their support.
 
  - [MILA](https://mila.quebec/en/)
  - [Element AI](https://www.elementai.com/)
+ - [Two Sigma](https://www.twosigma.com)
+ - [Vector Institute](https://vectorinstitute.ai/)
 
 
 <!-- [Airbnb](https://www.airbnb.com/)
