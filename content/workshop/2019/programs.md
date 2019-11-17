@@ -10,49 +10,53 @@ linktitle = "Programs 2019"
   weight = 50
 +++
 
+<hr>
 The 3rd Black in AI event will be co-located with [NeurIPS 2019](https://nips.cc/) at the [Vancouver Convention Center, Vancouver Canada](https://www.vancouverconventioncentre.com/) on <b>December 9th from 7:30 am to 8:00 pm PST</b>. The workshop will feature a panel discussion and invited talks from prominent researchers and practitioners, oral presentations, and a poster session. We invite all members of the AI community to attend the workshop. Please, register at <b>[this registration link](https://www.eventbrite.com/e/3rd-black-in-ai-workshop-at-neurips2019-tickets-78816631667)</b>.
 
 There will also be a reception followed by the annual dinner to facilitate networking, discussion of different career opportunities in AI, and sharing of ideas to increase participation of Black researchers in the field. The dinner will take place on <b>December 13th</b> at the [Sheraton Vancouver Wall Centre](https://www.marriott.com/hotels/travel/yvrws-sheraton-vancouver-wall-centre/).
 
+<hr>
 # Schedule 2019
+<hr>
+
 This program is <b>tentative</b> and things might change before the workshop date.
 
 Workshop is at <b>the convention Center Eastern Building Rooms 1,2,3</b>
 
 | Time              | Event                | Speaker               | Institution                            |
 |-------------------|----------------------|-----------------------|----------------------------------------|
-| 07:00-08:00 am    | Registration (NeurIPS registration not required)        | | |
-| 08:00-08:30 am    | Mentorship Breakfast      | | |
-| 09:00-09:10 am    | Opening Remarks      | | |
+| 07:00-08:00 am    <td colspan=3>Registration (NeurIPS registration not required)        
+| 08:00-08:30 am    <td colspan=3> Mentorship Breakfast      | | |
+| 09:00-09:10 am    <td colspan=3> Opening Remarks      | | |
 | 09:10-09:45 am    | Invited Talk 1    | Elaine Nsoesie | Boston University, USA |
 | 09:45-10:00 am    | Contributed Talk 1               |Selameab Demilew |University of Ottawa, Canada |
 | 10:00-10:15 am    | Contributed Talk 2               |Abeba Birhane |University College Dublin, Ireland |
 | 10:15-10:30 am    | Contributed Talk 3               |Neema Mduma |NMAIST, South Africa |
-| 10:30-11:00 am    | Coffee Break         | | |
+| 10:30-11:00 am    <td colspan=3> Coffee Break         | | |
 | 11:00-11:35 am    | Invited Talk 2    | Sarah Menker | Gro Intelligence, USA |
 | 11:35-11:50 am    | Contributed Talk 4               |Israel Birhane |MILA, Canada |
 | 11:50-12:05 pm    | Contributed Talk 5               |Robert Ness |Gamalon, Inc, USA |
 | 12:05-12:20 pm    | Contributed Talk 6               |Folake Akinbohun |Rufus Giwa Polytechnic, Nigeria |
-| 12:20-02:45 pm    | Lunch + Joint Poster Session with WiML      | | |
+| 12:20-02:45 pm    <td colspan=3> Lunch + Joint Poster Session with WiML      | | |
 | 02:45-03:00 pm    | Contributed Talk 7               |Rahel Tamiru |Bahir Dar Universty, Ethiopia |
 | 03:00-03:15 pm    | Contributed Talk 8               |Wilka Carvalho |University of Michigan--Ann Arbor, USA |
-| 03:15-03:45 pm    | Coffee Break	   | | |
+| 03:15-03:45 pm    <td colspan=3> Coffee Break	   | | |
 | 03:45-04:20 pm    | Invited Talk 3            |Matthew Kenney |Duke University, USA |
-| 04:20-05:00 pm    | Panel Discussion     | | |
-| 05:00-05:30 pm    | Awards & Closing Remarks      | | |
+| 04:20-05:00 pm    <td colspan=3> Panel Discussion     | | |
+| 05:00-05:30 pm    <td colspan=3> Awards & Closing Remarks      | | |
 | 05:30 pm	    | BREAK		   | | |
-| 06:30-08:00 pm    | Joint Affinity Groups Poster Session (co-located with NeurIPS opening reception, NeurIPS registration not required)         | | |
+| 06:30-08:00 pm     <td colspan=3>Joint Affinity Groups Poster Session (co-located with NeurIPS opening reception, NeurIPS registration not required)         | | |
 
 The 3rd BAI annual dinner will be held on <b>Friday, December 13th at 6:30 pm PST</b> at the <b>[Sheraton Vancouver Wall Centre](https://www.marriott.com/hotels/travel/yvrws-sheraton-vancouver-wall-centre/)</b>.
 
 | Time            | Event                | Speaker               | Institution                            |
 |-----------------|----------------------|-----------------------|----------------------------------------|
-| 06:30-07:30 pm  | Reception & Networking|                       |                                        |
-| 07:30-08:00 pm  | Welcome to Dinner    |                       |                                        |
-| 08:00-10:00 pm  | Dinner & Networking               |                       |                                        |
-| 08:30-09:00 pm  | BAI Presentations    |                       |                                        |
-| 09:00-10:00 pm  | Fireside Chat        | Ruha Benjamin & Charity Wayua | Princeton U. & IBM Research Africa                                        |
-| 10:00-02:00 am  | Networking & The Annual BAI Music (featuring the legendary [DJ Hassan Kane](https://www.linkedin.com/in/mohamed-hassan-kane-4b50328a))  |                       |                                        |
+| 06:30-07:30 pm  <td colspan=3> Reception, Book Signing by Ruha Benjamin & Networking|                       |                                        |
+| 07:30-08:00 pm  <td colspan=3> Welcome to Dinner    |                       |                                        |
+| 08:00-10:00 pm  <td colspan=3> Dinner & Networking               |                       |                                        |
+| 08:30-08:45 pm  <td colspan=3> BAI Presentations    |                       |                                        |
+| 08:45-9:30 pm  | Fireside Chat        | Ruha Benjamin & Charity Wayua | Princeton U. & IBM Research Africa                                        |
+| 10:00-01:00 am  <td colspan=3> Networking & the Annual BAI Music (featuring [DJ Hassan Kane](https://www.linkedin.com/in/mohamed-hassan-kane-4b50328a))  |                       |                                        |
 
 <hr>
 # Dinner Invited Speakers
@@ -219,8 +223,12 @@ The evaluation of the experiments shows that monosyllable acoustic model is the 
 
 <b>Abstract</b>: Human perception and decision making are centered around perceiving objects and interacting with them. Remarkably, humans enter environments without knowledge of the objects or categories they will encounter and learn spatially invariant representations for novel object-categories as they explore object-interactions that fulfill their goals. Yet much work in deep reinforcement learning (RL) that requires explicit object-interaction has avoided the object perception problem and provided agents with a priori knowledge of the objects they will interact with. In this work, we explore how an RL agent without a priori knowledge of environment objects can efficiently learn to perform complex object-oriented tasks by learning invariant object-category representations. We propose a novel self-supervised object-memory module that leverages interactions with objects to learn a view-invariant object recognition function. We exploit this view-invariance by combining it with count-based exploration to enable object-oriented exploration. This enables our agent to explore among object-interactions instead of among all state-action pairs. In order to evaluate our method, we introduce a set of challenging tasks in the AI2Thor 3D-home environment and show that our approach enables sample-efficient learning of complex, object-oriented RL tasks.
 
+<hr>
+
 # Accepted Posters
 <p style="color: black">
+
+<hr>
 
 1. A Blended Approach of Machine Learning Techniques
 in Predicting Vegetation Cover
