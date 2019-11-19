@@ -104,9 +104,9 @@ Charity holds a PhD in Chemistry from Purdue University and a Bachelor's degree 
 
 <b>Presentation Format</b>: "Keynote at the BAI Workshop"
 
-<b>Title of Presentation</b>: "TBD"
+<b>Title of Presentation</b>: "Living is an Agricultural Act: AI for Global Food Security"
 
-<b>Abstract</b>: TBD.
+<b>Abstract</b>: From the food we eat to the clothing we wear and the gasoline in millions of cars across the globe, agriculture touches our daily existence like few other industries. Today new challenges for the industry are emerging faster than ever before - climate change, politics, population growth, and changing tastes, to name a few - but decision-makers still operate in an extraordinarily information-poor environment. In this talk, Ms. Menker will discuss how Gro Intelligence leverages AI and machine learning to increase data availability, create clarity, and forecast and address some of the industry’s most pressing and complicated problems.
 
 <b>Bio</b>: Sara Menker is the founder and CEO of Gro Intelligence. Gro is AI for agriculture. Gro’s platform automatically harvests vast amounts of disparate global agricultural data, transforms it into knowledge, and generates predictions for volatile markets. Prior to founding Gro, Sara was a Vice President in Morgan Stanley’s commodities group. She began her career in commodities risk management, where she covered all commodity markets, and subsequently moved to trading, where she managed an options trading portfolio. Sara is a Trustee of the Mandela Institute For Development Studies (MINDS) and a Trustee of the International Center for Tropical Agriculture (CIAT). Sara was named a Global Young Leader by the World Economic Forum and is a fellow of the Aspen Institute. Sara received a B.A. in Economics and African Studies at Mount Holyoke College and the London School of Economics and an M.B.A. from Columbia University.
 

@@ -67,22 +67,31 @@ Thanks to our corporate sponsors, the workshop is free to attendees and we are a
 
 {{< figure src="/img/uber-new.png" target="_blank" link="https://www.uber.com/" class="img-sponsor-c">}}
 
-<hr>
+
 
 <!-- We thank [B4 Capital Group](https://b4capitalgroup.com/) for their support
 <br><br> -->
 
+<hr>
+
+## <span style="color:Green">Thanks</span>
+
 We thank the following companies and institutions for their support.
 
- - [MILA](https://mila.quebec/en/)
- - [Element AI](https://www.elementai.com/)
- - [Two Sigma](https://www.twosigma.com)
- - [Vector Institute](https://vectorinstitute.ai/)
+{{< figure src="/img/2-sigma.jpg" target="_blank" link="https://www.twosigma.com/" class="img-sponsor-c">}}
+{{< figure src="/img/mila.png" target="_blank" link="https://mila.quebec/en/" class="img-sponsor-c">}}
+{{< figure src="/img/elementai.png" target="_blank" link="https://www.elementai.com/" class="img-sponsor-c">}}
+{{< figure src="/img/vector.png" target="_blank" link="https://vectorinstitute.ai/" class="img-sponsor-c">}}
 
 
 <!-- [Airbnb](https://www.airbnb.com/)
  - [Kaggle](https://www.kaggle.com/)
  - [InstaDeep](https://www.linkedin.com/company/instadeep/)
+ - [Vector Institute](https://vectorinstitute.ai/)
+ 
+ - [MILA](https://mila.quebec/en/)
+ - [Element AI](https://www.elementai.com/)
+ - [Two Sigma](https://www.twosigma.com)
  - [Vector Institute](https://vectorinstitute.ai/)
 
 <hr>
