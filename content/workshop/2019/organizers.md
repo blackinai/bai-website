@@ -46,7 +46,7 @@ Nicolas Le Roux| Google
 Oluwatobi Olabiyi| Capital One
 Pavan Kamaraju| Streem
 Sam Ade Jacobs| Lawrence Livermore National Lab
-Samy,,Bengio| Google Research - Brain Team
+Samy Bengio| Google Research - Brain Team
 Sarah M Brown| Brown University
 Sorelle Friedler| Haverford College
 Tewodros Abebe Gebreselassie| Wolaita Sodo University
