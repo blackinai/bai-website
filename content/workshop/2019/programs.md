@@ -31,7 +31,7 @@ Workshop is at <b>the convention Center Eastern Building Rooms 1,2,3</b>
 | 09:10-09:45 am    | Invited Talk 1    | Elaine Nsoesie | Boston University, USA |
 | 09:45-10:00 am    | Contributed Talk 1               |Selameab Demilew |University of Ottawa, Canada |
 | 10:00-10:15 am    | Contributed Talk 2               |Abeba Birhane |University College Dublin, Ireland |
-| 10:15-10:30 am    | Contributed Talk 3               |Neema Mduma |NMAIST, South Africa |
+| 10:15-10:30 am    | Contributed Talk 3               |Neema Mduma |NMAIST, Tanzania |
 | 10:30-11:00 am    <td colspan=3> Coffee Break         | | |
 | 11:00-11:35 am    | Invited Talk 2    | Sarah Menker | Gro Intelligence, USA |
 | 11:35-11:50 am    | Contributed Talk 4               |Israel Birhane |MILA, Canada |
