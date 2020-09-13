@@ -287,7 +287,13 @@ enableGitInfo = true
 #   #parent = "ws"
 #   weight = 2
 #   url = "/workshop/"
-	
+
+  [[menu.main]]
+    name = "BAI 2020"
+    weight = 2
+    #parent = "ws"
+    url = "/workshop/2020/cfp"
+
   [[menu.main]]
     name = "BAI 2019"
     weight = 3
@@ -412,8 +418,13 @@ enableGitInfo = true
 #  url = "/workshop/"
 
 [[menu.workshop]]
-  name = "BAI 2019"
+  name = "BAI 2020"
   weight = 10
+  identifier = "bai2020"
+
+[[menu.workshop]]
+  name = "BAI 2019"
+  weight = 15
   identifier = "bai2019"
   
 [[menu.workshop]]
