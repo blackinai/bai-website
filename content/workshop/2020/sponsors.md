@@ -1,15 +1,19 @@
 +++
-title = "Sponsors 2019"
+title = "Sponsors 2020"
 
-draft = false
+draft = true
 
 math = true
 
-linktitle = "Sponsors 2019"
+linktitle = "Sponsors 2020"
 
 [menu.workshop]
-  parent = "bai2019"
+  parent = "bai2020"
   weight = 60
+
+[header]
+image = "neurips-logo-new.svg"
+caption = "NeurIPS2020"
 +++
 
 Thanks to our corporate sponsors, the workshop is free to attendees and we are able to provide inclusive travel funding to select participants.

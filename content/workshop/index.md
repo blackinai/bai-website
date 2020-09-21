@@ -2,7 +2,6 @@
 title = "About BAI Workshops"
 
 draft = true
-
 math = true
 
 # Optional featured image (relative to `static/img` folder).

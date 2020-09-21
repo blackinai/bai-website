@@ -1,13 +1,18 @@
 ﻿+++
-title = "Programs 2019"
+title = "Programs 2020"
 active = true
 math = true
+draft=true
 
-linktitle = "Programs 2019"
+linktitle = "Programs 2020"
 
 [menu.workshop]
-  parent = "bai2019"
+  parent = "bai2020"
   weight = 50
+
+[header]
+image = "neurips-logo-new.svg"
+caption = "NeurIPS2020"
 +++
 
 <hr>
