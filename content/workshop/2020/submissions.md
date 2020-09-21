@@ -1,5 +1,5 @@
 +++
-title = "Submission Instructions 2019"
+title = "Submission Instructions 2020"
 
 draft = false
 
@@ -7,7 +7,7 @@ math = true
 
 linktitle = "Submission Instructions 2020"
 
-aliases = ["post/submissions/"]
+# aliases = ["post/submissions/"]
 
 [menu.workshop]
     parent = "bai2020"

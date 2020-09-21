@@ -14,9 +14,6 @@ caption = "NeurIPS2020"
 +++
 
 ### Black in AI 2020: Call for Submissions
-<!---
-<span style="color:red">__The deadline for submissions has officially passed!__</span>
--->
 
 We invite submissions for the Fourth Black in AI Workshop (Virtual) Workshop (co-located with [NeurIPS 2020](https://nips.cc/). Both the Black in AI workshop and the NeurIPS conference will be held in a virtual (online) format.
 
@@ -37,7 +34,7 @@ Each submission will fall into one of these 4 tracks:
 Work may be previously published, completed, or ongoing. The workshop will not publish proceedings. We encourage all Black researchers in areas
 related to AI to submit their work. The work should include at least one Black researcher either as main author or co-author.
 
-For further details on the paper submissions please refer to __Submissions__ page.
+For further details on the paper submissions please refer to [Submissions](https://blackinai.github.io/blackinai.github.io/workshop/2020/submissions/) page.
 
 ### Invited talks 
 The workshop will feature invited talks from prominent researchers and practitioners, oral presentations, and a poster session. There will also be socials to facilitate networking, discussion of different career opportunities in AI, and sharing of ideas to increase participation of Black researchers in the field. We invite all members of the AI community to attend the workshop.
