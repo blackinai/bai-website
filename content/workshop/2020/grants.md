@@ -1,19 +1,19 @@
 +++
-title = "Travel Grants 2019"
+title = "Data Grants 2020"
 
-draft = false
+draft = true
 
 math = true
 
 [menu.workshop]
-    parent = "bai2019"
+    parent = "bai2020"
     weight = 30
 
 
 # Optional featured image (relative to `static/img` folder).
 [header]
-image = "vancouver_travels.jpg"
-caption = "Vancouver"
+image = "neurips-logo-new.svg"
+caption = "NeurIPS2020"
 +++
 <span style="color:red">__The deadline for Travel Grants has officially passed!__</span>
 
