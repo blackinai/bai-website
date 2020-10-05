@@ -82,15 +82,18 @@ bai-acad-team@googlegroups.com
 ------------
 ### FAQs:
 - *How can I take part in this program?*
- - If you self-identify as Black and are applying to graduate or postgraduate positions or are currently in graduate school, please sign up to join the Black in AI google group [here](https://goo.gl/forms/CMDkD5CuLjc0IAJi1 "here") and follow instructions sent out over our email list.
+ If you self-identify as Black and are applying to graduate or postgraduate positions or are currently in graduate school, please sign up to join the Black in AI google group [here](https://goo.gl/forms/CMDkD5CuLjc0IAJi1 "here") and follow instructions sent out over our email list.
+
 - *How can I support this program as an academic?* 
- - You can sign up to mentor by first joining the Black in AI group [here](https://goo.gl/forms/CMDkD5CuLjc0IAJi1 "here"), then reaching out to us at bai-acad-team@googlegroups.com 
+ You can sign up to mentor by first joining the Black in AI group [here](https://goo.gl/forms/CMDkD5CuLjc0IAJi1 "here"), then reaching out to us at bai-acad-team@googlegroups.com 
+
 - *How can my organization support the program?*
- - For partnership and sponsorship, please email us at bai-acad-team@googlegroups.com
+ For partnership and sponsorship, please email us at bai-acad-team@googlegroups.com
+
 - *How can I advertise graduate student, postdoctoral fellowship, faculty, or research scientist positions at my institutions?*
- - To advertise graduate programs (masters, professional, and doctorate degrees), please fill out this form. 
- - To advertise fellowships or scholarships, please fill out this form. 
- - To advertise postdoctoral, faculty, or research scientist positions, please fill out this form. 
+ - To advertise graduate programs (masters, professional, and doctorate degrees), please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLScujfBJHwgzG69hO66GPDUQtezszjNlttA3Z1n638n7Gdghsw/viewform?usp=sf_link "Funded masters programs "). 
+ - To advertise fellowships or scholarships, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfx-u2XWl74G40tweim3q0Xrdh7iCxQSzTYE1ukS-A9DWEykg/viewform?usp=sf_link "Graduate Fellowships/scholarships"). 
+ - To advertise postdoctoral, faculty, or research scientist positions, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLScEmNezD5GM6Ay91bT3YE81vgraB5ST7jSzHkQuAIZw3hIo8Q/viewform "Postdoctoral, faculty, and research scientist positions"). 
 
 ### Resources:
 - Help us identify graduate programs with lower financial barriers by filling out the respective forms below: 
@@ -98,3 +101,4 @@ bai-acad-team@googlegroups.com
  - [Programs with application fee-waivers](https://docs.google.com/forms/d/e/1FAIpQLSdyrhg_dR5RC_R5fr5P0Pq-0C6ozYuDDBplI7SN_ODVZdIdig/viewform?usp=sf_link "Programs with application fee-waivers")
  - [Funded masters programs ](https://docs.google.com/forms/d/e/1FAIpQLScujfBJHwgzG69hO66GPDUQtezszjNlttA3Z1n638n7Gdghsw/viewform?usp=sf_link "Funded masters programs ")
  - [Graduate Fellowships/scholarships](https://docs.google.com/forms/d/e/1FAIpQLSfx-u2XWl74G40tweim3q0Xrdh7iCxQSzTYE1ukS-A9DWEykg/viewform?usp=sf_link "Graduate Fellowships/scholarships")
+ - [Postdoctoral, faculty, and research scientist positions](https://docs.google.com/forms/d/e/1FAIpQLScEmNezD5GM6Ay91bT3YE81vgraB5ST7jSzHkQuAIZw3hIo8Q/viewform "Postdoctoral, faculty, and research scientist positions")
