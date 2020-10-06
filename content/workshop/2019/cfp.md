@@ -14,7 +14,7 @@ caption = "Vancouver Convention Center, Vancouver CANADA "
 +++
 
 ### Black in AI 2019: Call for Submissions
-<span style="color:red">__The deadline for submissions has officially passed!__</span>
+<span style="color:red">The deadline for submissions has officially passed!</span>
 
 We invite submissions for the Third Black in AI Workshop (co-located with [NeurIPS 2019](https://nips.cc/) at the [Vancouver Convention Center, Vancouver CANADA](https://www.vancouverconventioncentre.com/). We welcome research work in artificial intelligence, computational neuroscience, and its applications. 
 
@@ -40,15 +40,15 @@ The early registration deadline for the conference is __Sun October 13, 2019 11:
 
 ### Important Dates
 
-* <span style="color:red">~~__Tue July 30, 2019 11:00 PM UTC:__ Abstract submission deadline~~</span>
+* <span style="color:red">~~Tue July 30, 2019 11:00 PM UTC: Abstract submission deadline~~</span>
 
-* <span style="color:red">~~__Extended:__ __Tue Aug 06, 2019 11:00 PM UTC:__ Abstract submission deadline~~</span>
+* <span style="color:red">~~Extended:Tue Aug 06, 2019 11:00 PM UTC: Abstract submission deadline~~</span>
 
-* <span style="color:red">~~__Wed July 31, 2019 11:00 PM UTC:__ Travel grant application deadline~~</span> 
+* <span style="color:red">~~Wed July 31, 2019 11:00 PM UTC: Travel grant application deadline~~</span> 
 
-* <span style="color:red">~~__Extended:__ __Wed Aug 07, 2019 11:00 PM UTC:__ Travel grant application deadline~~</span>
+* <span style="color:red">~~Extended: Wed Aug 07, 2019 11:00 PM UTC: Travel grant application deadline~~</span>
 
-* <span style="color:red">~~__30th August, 2019:__ Notification of travel grant approval/rejection~~</span>
-* <span style="color:red">~~__31st August, 2019:__ Notification of paper submission acceptance/rejection~~</span>
+* <span style="color:red">~~30th August, 2019: Notification of travel grant approval/rejection~~</span>
+* <span style="color:red">~~31st August, 2019: Notification of paper submission acceptance/rejection~~</span>
 * __Sun October 13, 2019 11:59 EST:__ NeurIPS early registration deadline
 * __Monday December 9th, 2019 9:00 am to 5:30 pm EST:__ Third BAI Workshop

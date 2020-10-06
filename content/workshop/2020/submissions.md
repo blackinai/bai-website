@@ -19,9 +19,8 @@ image = "neurips-logo-new.svg"
 caption = "NeurIPS2020"
 +++
 
-<!---
-<span style="color:red">__The deadline for submissions has officially passed!__</span>
--->
+<span style="color:red">Submission deadline extended to Wednesday 14th October, 2020 11:00 PM UTC</span>
+
 We welcome works in artificial intelligence, including, but not limited to, computer vision, deep learning, knowledge reasoning, machine learning, multi-agent systems, natural language processing, statistical reasoning, theory, robotics, as well as applications of AI to other domains such as health and education, and submissions concerning fairness, ethics, and transparency in AI. Papers may introduce new theory, methodology, or applications.
 
 We also welcome position papers and demos related to these areas. Work may be previously published, completed, or ongoing. Submissions will be peer-reviewed by at least 2 reviewers in the area. The workshop will not publish proceedings. We encourage all Black researchers in the field to submit their work, and do not need to be first author of the work. 
@@ -34,7 +33,9 @@ All submissions must be in PDF format. Submissions are limited to two content pa
 
 ### Timeline
 * Paper submission deadline:
-    - __Fri October 2, 2020 11:00 PM UTC:__
+    - ~~Fri October 2, 2020 11:00 PM UTC~~
+    - <span style="color:red">Extended: Wednesday October 14, 2020 11:00 PM UTC</span>
+
 * First round of decisions:
     - __Fri October 23, 2020__
 * Rebuttal: 

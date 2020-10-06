@@ -15,6 +15,8 @@ caption = "NeurIPS2020"
 
 ### Black in AI 2020: Call for Submissions
 
+<span style="color:red">Submission deadline extended to Wednesday 14th October, 2020 11:00 PM UTC</span>
+
 We invite submissions for the Fourth Black in AI Workshop (Virtual) Workshop co-located with [NeurIPS 2020](https://nips.cc/). Both the Black in AI workshop and the NeurIPS conference will be held in a virtual (online) format.
 
 We welcome research papers, position papers, survey papers, vision papers, or papers that inform about neglected/abandoned areas of study where AI
